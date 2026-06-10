@@ -376,14 +376,38 @@ h1, h2, h3 {
 
 /* Mobile Adjustments */
 @media (max-width: 768px) {
+    .main-header {
+        padding: 1rem 0;
+    }
+
     .header-container {
         flex-direction: column;
-        gap: 1.5rem;
+        gap: 0.8rem;
         text-align: center;
+        padding: 0 1rem;
     }
 
     .brand h1 {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
+    }
+    
+    .brand .subtitle {
+        font-size: 0.8rem;
+        margin-top: 0.2rem;
+    }
+
+    .logo-box img {
+        height: 30px;
+    }
+
+    .header-actions {
+        gap: 0.5rem;
+        flex-direction: row-reverse;
+    }
+
+    .install-btn {
+        padding: 6px 12px;
+        font-size: 0.8rem;
     }
 
     .search-module-card {
