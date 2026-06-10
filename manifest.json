@@ -1,0 +1,21 @@
+{
+  "name": "Buscador de Locales Mostaza",
+  "short_name": "Locales Mostaza",
+  "description": "Buscador y directorio de locales y franquicias de Mostaza",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D31221",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

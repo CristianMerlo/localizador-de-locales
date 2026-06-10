@@ -102,4 +102,46 @@ function initStoreSearch() {
             </div>
         `).join('');
     }
+    }
 }
+
+// PWA Service Worker Registration & Install Logic
+let deferredPrompt;
+
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js')
+            .then(reg => console.log('Service Worker registrado con éxito', reg))
+            .catch(err => console.error('Error al registrar Service Worker', err));
+    });
+}
+
+window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+    const installBtn = document.getElementById('install-button');
+    
+    if (installBtn) {
+        installBtn.style.display = 'inline-flex';
+        
+        installBtn.addEventListener('click', () => {
+            installBtn.style.display = 'none';
+            deferredPrompt.prompt();
+            
+            deferredPrompt.userChoice.then((choiceResult) => {
+                if (choiceResult.outcome === 'accepted') {
+                    console.log('El usuario aceptó instalar la app');
+                } else {
+                    console.log('El usuario rechazó instalar la app');
+                }
+                deferredPrompt = null;
+            });
+        });
+    }
+});
+
+window.addEventListener('appinstalled', (evt) => {
+    const installBtn = document.getElementById('install-button');
+    if (installBtn) installBtn.style.display = 'none';
+    console.log('La aplicación fue instalada exitosamente');
+});
