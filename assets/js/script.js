@@ -23,6 +23,12 @@ function initStoreSearch() {
     input.addEventListener('input', (e) => {
         const query = e.target.value.toLowerCase().trim();
 
+        if (query.length === 0) {
+            renderStores(localesData);
+            countText.textContent = `Mostrando todos los locales (${localesData.length})`;
+            return;
+        }
+
         if (query.length < 2) {
             grid.innerHTML = '';
             countText.textContent = 'Ingresa al menos 2 caracteres para buscar';
@@ -49,6 +55,10 @@ function initStoreSearch() {
             countText.textContent = `Se encontraron ${filtered.length} locales`;
         }
     });
+
+    // Render all stores initially
+    renderStores(localesData);
+    countText.textContent = `Mostrando todos los locales (${localesData.length})`;
 
     function renderStores(stores) {
         grid.innerHTML = stores.map(store => `
