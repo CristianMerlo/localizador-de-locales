@@ -112,7 +112,6 @@ function initStoreSearch() {
             </div>
         `).join('');
     }
-    }
 }
 
 // PWA Service Worker Registration & Install Logic
