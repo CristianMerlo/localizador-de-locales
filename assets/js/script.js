@@ -56,6 +56,30 @@ function initStoreSearch() {
         }
     });
 
+    // Event delegation for copy buttons
+    grid.addEventListener('click', async (e) => {
+        if (e.target.classList.contains('copy-icon')) {
+            const textToCopy = e.target.getAttribute('data-copy');
+            if (textToCopy) {
+                try {
+                    await navigator.clipboard.writeText(textToCopy);
+                    
+                    // Visual feedback
+                    const originalClass = e.target.className;
+                    e.target.className = 'fa-solid fa-check copy-success';
+                    e.target.style.color = '#28a745';
+                    
+                    setTimeout(() => {
+                        e.target.className = originalClass;
+                        e.target.style.color = '';
+                    }, 2000);
+                } catch (err) {
+                    console.error('Error al copiar: ', err);
+                }
+            }
+        }
+    });
+
     // Render all stores initially
     renderStores(localesData);
     countText.textContent = `Mostrando todos los locales (${localesData.length})`;
@@ -94,7 +118,10 @@ function initStoreSearch() {
 
                 <div class="store-detail">
                     <span class="detail-label">Dirección</span>
-                    <span class="detail-value">${store.direccion || '-'}</span>
+                    <span class="detail-value copy-container">
+                        ${store.direccion || '-'}
+                        ${store.direccion && store.direccion !== '-' ? `<i class="fa-regular fa-copy copy-icon" data-copy="${store.direccion}, ${store.ciudad || ''}, ${store.provincia || ''}" title="Copiar dirección"></i>` : ''}
+                    </span>
                 </div>
                 <div class="store-detail">
                     <span class="detail-label">Localidad / Provincia</span>
@@ -102,7 +129,10 @@ function initStoreSearch() {
                 </div>
                 <div class="store-detail">
                     <span class="detail-label">Contacto</span>
-                    <span class="detail-value">${store.email || '-'}</span>
+                    <span class="detail-value copy-container">
+                        ${store.email || '-'}
+                        ${store.email && store.email !== '-' ? `<i class="fa-regular fa-copy copy-icon" data-copy="${store.email}" title="Copiar correo"></i>` : ''}
+                    </span>
                 </div>
                 
                 <div class="store-footer">
