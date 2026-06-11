@@ -95,15 +95,23 @@ function initStoreSearch() {
                 </div>
                 
                 <div class="store-info-group">
-                    <div class="store-detail">
+                    <div class="store-detail" style="grid-column: span 2;">
                         <span class="detail-label">Gerente Regional</span>
-                        <span class="detail-value">${store.regional || '-'}</span>
+                        <span class="detail-value" style="font-weight: 700;">${store.regional || '-'}</span>
+                        <span class="detail-value copy-container" style="font-size: 0.8rem; margin-top: 2px;">
+                            ${store.email_regional && store.email_regional !== '-' ? store.email_regional : '-'}
+                            ${store.email_regional && store.email_regional !== '-' ? `<i class="fa-regular fa-copy copy-icon" style="padding: 4px; font-size: 0.9rem;" data-copy="${store.email_regional}" title="Copiar correo regional"></i>` : ''}
+                        </span>
                     </div>
-                    <div class="store-detail">
+                    <div class="store-detail" style="grid-column: span 2;">
                         <span class="detail-label">Supervisor</span>
-                        <span class="detail-value">${store.supervisor || '-'}</span>
+                        <span class="detail-value" style="font-weight: 700;">${store.supervisor || '-'}</span>
+                        <span class="detail-value copy-container" style="font-size: 0.8rem; margin-top: 2px;">
+                            ${store.email_supervisor && store.email_supervisor !== '-' ? store.email_supervisor : '-'}
+                            ${store.email_supervisor && store.email_supervisor !== '-' ? `<i class="fa-regular fa-copy copy-icon" style="padding: 4px; font-size: 0.9rem;" data-copy="${store.email_supervisor}" title="Copiar correo supervisor"></i>` : ''}
+                        </span>
                     </div>
-                    <div class="store-detail">
+                    <div class="store-detail" style="grid-column: span 2; border-top: 1px dashed rgba(211, 47, 47, 0.2); padding-top: 0.8rem; margin-top: 0.2rem;">
                         <span class="detail-label">Técnico Asignado</span>
                         <span class="detail-value">${store.tecnico || '-'}</span>
                     </div>
