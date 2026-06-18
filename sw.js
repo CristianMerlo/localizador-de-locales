@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mostaza-locales-v4';
+const CACHE_NAME = 'mostaza-locales-v5';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
@@ -13,6 +13,7 @@ const ASSETS_TO_CACHE = [
 
 // Install Event
 self.addEventListener('install', (event) => {
+    self.skipWaiting(); // Force the waiting service worker to become the active service worker.
     event.waitUntil(
         caches.open(CACHE_NAME).then((cache) => {
             return cache.addAll(ASSETS_TO_CACHE);
@@ -40,6 +41,8 @@ self.addEventListener('activate', (event) => {
                     }
                 })
             );
+        }).then(() => {
+            return self.clients.claim(); // Force all clients to use the new service worker immediately
         })
     );
 });
