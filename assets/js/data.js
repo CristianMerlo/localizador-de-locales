@@ -58,7 +58,7 @@ const localesData = [
         "ciudad": "RAMOS MEJIA",
         "provincia": "BUENOS AIRES",
         "tipo_local": "-",
-        "razon_social": "-",
+        "razon_social": "Norand sas",
         "tecnico": "-",
         "email_regional": "mmedina@mostazaweb.com.ar",
         "email_supervisor": "mpardo@mostazaweb.com.ar"
