@@ -11,9 +11,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "1"
     },
     {
         "sigla_sistema": "FSJU",
@@ -27,9 +28,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "2"
     },
     {
         "sigla_sistema": "FLF2",
@@ -43,9 +45,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "3"
     },
     {
         "sigla_sistema": "FMRAM",
@@ -59,9 +62,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "4"
     },
     {
         "sigla_sistema": "FEZE",
@@ -75,9 +79,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "5"
     },
     {
         "sigla_sistema": "FMCAN",
@@ -91,9 +96,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "6"
     },
     {
         "sigla_sistema": "FMGD",
@@ -107,9 +113,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "7"
     },
     {
         "sigla_sistema": "FZAR",
@@ -123,9 +130,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "8"
     },
     {
         "sigla_sistema": "FMGUA",
@@ -139,9 +147,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "9"
     },
     {
         "sigla_sistema": "FCAB",
@@ -155,9 +164,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "10"
     },
     {
         "sigla_sistema": "FMCYM",
@@ -171,9 +181,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "11"
     },
     {
         "sigla_sistema": "FGUE",
@@ -187,9 +198,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "12"
     },
     {
         "sigla_sistema": "FURQ",
@@ -203,9 +215,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "13"
     },
     {
         "sigla_sistema": "FPPI",
@@ -219,9 +232,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "14"
     },
     {
         "sigla_sistema": "FSIS",
@@ -235,9 +249,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "15"
     },
     {
         "sigla_sistema": "FMRVP",
@@ -251,9 +266,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "16"
     },
     {
         "sigla_sistema": "FCAT",
@@ -267,9 +283,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "17"
     },
     {
         "sigla_sistema": "FFRA",
@@ -283,9 +300,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "18"
     },
     {
         "sigla_sistema": "FMORE",
@@ -299,9 +317,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "19"
     },
     {
         "sigla_sistema": "FLUJ",
@@ -315,9 +334,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "20"
     },
     {
         "sigla_sistema": "FMSVP",
@@ -331,9 +351,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "21"
     },
     {
         "sigla_sistema": "FSMA",
@@ -347,9 +368,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "22"
     },
     {
         "sigla_sistema": "FSJN",
@@ -363,9 +385,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "23"
     },
     {
         "sigla_sistema": "FSJ2",
@@ -379,9 +402,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "24"
     },
     {
         "sigla_sistema": "FTU2",
@@ -395,9 +419,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "25"
     },
     {
         "sigla_sistema": "FTU3",
@@ -411,9 +436,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "26"
     },
     {
         "sigla_sistema": "FTU4",
@@ -427,9 +453,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "27"
     },
     {
         "sigla_sistema": "FTC5",
@@ -443,9 +470,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "28"
     },
     {
         "sigla_sistema": "FTC6",
@@ -459,9 +487,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "29"
     },
     {
         "sigla_sistema": "FMTU7",
@@ -475,9 +504,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "30"
     },
     {
         "sigla_sistema": "FTC8",
@@ -491,9 +521,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "31"
     },
     {
         "sigla_sistema": "MPT",
@@ -507,9 +538,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "32"
     },
     {
         "sigla_sistema": "FMTU9",
@@ -523,9 +555,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "33"
     },
     {
         "sigla_sistema": "FQUP",
@@ -541,7 +574,8 @@ const localesData = [
         "razon_social": "-",
         "tecnico": "-",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "-"
     },
     {
         "sigla_sistema": "FLP2",
@@ -555,9 +589,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "34"
     },
     {
         "sigla_sistema": "FLP3",
@@ -571,9 +606,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "35"
     },
     {
         "sigla_sistema": "FLP4",
@@ -587,25 +623,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
-    },
-    {
-        "sigla_sistema": "FLP6",
-        "sigla_tickets": "FLPC6",
-        "regional": "-",
-        "supervisor": "-",
-        "local": "LA PLATA 6",
-        "email": "-",
-        "direccion": "-",
-        "ciudad": "-",
-        "provincia": "-",
-        "tipo_local": "-",
-        "razon_social": "-",
-        "tecnico": "-",
-        "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "36"
     },
     {
         "sigla_sistema": "FCYB",
@@ -619,9 +640,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "37"
     },
     {
         "sigla_sistema": "FRDN",
@@ -635,9 +657,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "38"
     },
     {
         "sigla_sistema": "FSDE",
@@ -651,9 +674,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "39"
     },
     {
         "sigla_sistema": "FMMSM",
@@ -667,9 +691,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "40"
     },
     {
         "sigla_sistema": "FMMCO",
@@ -683,9 +708,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "41"
     },
     {
         "sigla_sistema": "FSRM",
@@ -699,9 +725,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "42"
     },
     {
         "sigla_sistema": "FGON",
@@ -715,9 +742,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "43"
     },
     {
         "sigla_sistema": "FBER",
@@ -731,9 +759,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "44"
     },
     {
         "sigla_sistema": "FMRG",
@@ -747,9 +776,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "45"
     },
     {
         "sigla_sistema": "FLOZ",
@@ -763,9 +793,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "46"
     },
     {
         "sigla_sistema": "FMLCA",
@@ -779,9 +810,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "47"
     },
     {
         "sigla_sistema": "FMWVP",
@@ -795,9 +827,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "48"
     },
     {
         "sigla_sistema": "FBA1",
@@ -811,9 +844,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "49"
     },
     {
         "sigla_sistema": "FUSH",
@@ -827,9 +861,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "50"
     },
     {
         "sigla_sistema": "FRGD",
@@ -843,9 +878,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "51"
     },
     {
         "sigla_sistema": "FPSA",
@@ -859,9 +895,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "52"
     },
     {
         "sigla_sistema": "FSLI",
@@ -875,9 +912,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "53"
     },
     {
         "sigla_sistema": "FSVP",
@@ -891,9 +929,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "54"
     },
     {
         "sigla_sistema": "FSAA",
@@ -907,9 +946,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "55"
     },
     {
         "sigla_sistema": "MSN",
@@ -923,9 +963,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "56"
     },
     {
         "sigla_sistema": "FJUJ",
@@ -939,9 +980,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "57"
     },
     {
         "sigla_sistema": "FSAO",
@@ -955,9 +997,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "58"
     },
     {
         "sigla_sistema": "FPCH",
@@ -971,9 +1014,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "59"
     },
     {
         "sigla_sistema": "FMCNT",
@@ -987,9 +1031,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "60"
     },
     {
         "sigla_sistema": "FSPI",
@@ -1003,9 +1048,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "61"
     },
     {
         "sigla_sistema": "FLA2",
@@ -1019,13 +1065,14 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "62"
     },
     {
         "sigla_sistema": "FCQU",
-        "sigla_tickets": "FCFQU",
+        "sigla_tickets": "FMQCA",
         "regional": "-",
         "supervisor": "-",
         "local": "CARRE QUILMES",
@@ -1035,9 +1082,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "63"
     },
     {
         "sigla_sistema": "FLPA",
@@ -1051,9 +1099,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "64"
     },
     {
         "sigla_sistema": "FMFOR",
@@ -1067,9 +1116,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "65"
     },
     {
         "sigla_sistema": "FFLO",
@@ -1083,9 +1133,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "66"
     },
     {
         "sigla_sistema": "FMPRI",
@@ -1099,9 +1150,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "67"
     },
     {
         "sigla_sistema": "FLIN",
@@ -1115,9 +1167,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "68"
     },
     {
         "sigla_sistema": "FMONC",
@@ -1131,9 +1184,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "69"
     },
     {
         "sigla_sistema": "-",
@@ -1147,9 +1201,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "70"
     },
     {
         "sigla_sistema": "FBOL",
@@ -1163,9 +1218,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "71"
     },
     {
         "sigla_sistema": "FMJUN",
@@ -1179,9 +1235,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "72"
     },
     {
         "sigla_sistema": "FRGA",
@@ -1195,9 +1252,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "73"
     },
     {
         "sigla_sistema": "FMPYA",
@@ -1211,9 +1269,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "74"
     },
     {
         "sigla_sistema": "FMP1",
@@ -1227,9 +1286,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "75"
     },
     {
         "sigla_sistema": "FMP2",
@@ -1243,9 +1303,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "76"
     },
     {
         "sigla_sistema": "FMD3",
@@ -1259,9 +1320,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "77"
     },
     {
         "sigla_sistema": "FMDQ4",
@@ -1275,9 +1337,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "78"
     },
     {
         "sigla_sistema": "FOLAV",
@@ -1291,9 +1354,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "79"
     },
     {
         "sigla_sistema": "FCTA",
@@ -1307,9 +1371,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "80"
     },
     {
         "sigla_sistema": "FSAF",
@@ -1323,9 +1388,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "81"
     },
     {
         "sigla_sistema": "FGBG",
@@ -1339,9 +1405,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "82"
     },
     {
         "sigla_sistema": "FJCP",
@@ -1355,9 +1422,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "83"
     },
     {
         "sigla_sistema": "FSM2",
@@ -1371,9 +1439,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "84"
     },
     {
         "sigla_sistema": "FMSMA",
@@ -1387,9 +1456,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "85"
     },
     {
         "sigla_sistema": "FMER",
@@ -1403,9 +1473,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "86"
     },
     {
         "sigla_sistema": "FCOR",
@@ -1419,9 +1490,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "87"
     },
     {
         "sigla_sistema": "FMRES",
@@ -1435,9 +1507,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "88"
     },
     {
         "sigla_sistema": "FSLS",
@@ -1451,9 +1524,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "89"
     },
     {
         "sigla_sistema": "FBOE",
@@ -1467,9 +1541,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "90"
     },
     {
         "sigla_sistema": "FSTM",
@@ -1483,9 +1558,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Anabella Guerrero",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "91"
     },
     {
         "sigla_sistema": "FAVM",
@@ -1499,9 +1575,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "92"
     },
     {
         "sigla_sistema": "FAVM2",
@@ -1515,9 +1592,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Fernando Soria",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "93"
     },
     {
         "sigla_sistema": "F9DJ",
@@ -1531,9 +1609,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "94"
     },
     {
         "sigla_sistema": "FMCYC",
@@ -1547,9 +1626,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Tomás Vera",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "95"
     },
     {
         "sigla_sistema": "FRAF",
@@ -1563,9 +1643,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "96"
     },
     {
         "sigla_sistema": "FRSF",
@@ -1579,9 +1660,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "97"
     },
     {
         "sigla_sistema": "FWSF",
@@ -1595,9 +1677,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "98"
     },
     {
         "sigla_sistema": "FMSFV",
@@ -1611,9 +1694,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "99"
     },
     {
         "sigla_sistema": "FPRO",
@@ -1627,9 +1711,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "100"
     },
     {
         "sigla_sistema": "FPEL",
@@ -1643,9 +1728,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "101"
     },
     {
         "sigla_sistema": "FRSM",
@@ -1659,9 +1745,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "102"
     },
     {
         "sigla_sistema": "FROA",
@@ -1675,9 +1762,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "103"
     },
     {
         "sigla_sistema": "FMSNI",
@@ -1691,9 +1779,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "104"
     },
     {
         "sigla_sistema": "FMPUM",
@@ -1707,9 +1796,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "105"
     },
     {
         "sigla_sistema": "FMPUM",
@@ -1723,9 +1813,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "105"
     },
     {
         "sigla_sistema": "MAR",
@@ -1739,9 +1830,10 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "107"
     },
     {
         "sigla_sistema": "MCR",
@@ -1755,8 +1847,9 @@ const localesData = [
         "provincia": "-",
         "tipo_local": "-",
         "razon_social": "-",
-        "tecnico": "-",
+        "tecnico": "Francisco Rametta",
         "email_regional": "-",
-        "email_supervisor": "-"
+        "email_supervisor": "-",
+        "id_gen_online": "108"
     }
 ];
