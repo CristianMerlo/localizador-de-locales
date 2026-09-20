@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mostaza-locales-v7';
+const CACHE_NAME = 'mostaza-locales-v8';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
