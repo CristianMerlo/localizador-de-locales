@@ -6,19 +6,18 @@ const localesData = [
         "supervisor": "Micaela Pardo",
         "local": "San Justo",
         "email": "sanjusto3@mostazaweb.com.ar",
-        "direccion": "Arieta 3150",
+        "direccion": "Dr. Ignacio Arieta 3150",
         "ciudad": "SAN JUSTO",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "PUESTO RICO S.A.",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "002"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLF2",
-        "sigla_tickets": "FLF2",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Micaela Pardo",
         "local": "Laferrere 2",
@@ -30,59 +29,55 @@ const localesData = [
         "razon_social": "MAZZBA S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "003"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMRAM",
-        "sigla_tickets": "FMRAM",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Micaela Pardo",
         "local": "Ramos",
         "email": "ramosejia@mostazaweb.com.ar",
-        "direccion": "BELGRANO 86",
+        "direccion": "Av. Belgrano 86",
         "ciudad": "RAMOS MEJIA",
         "provincia": "BUENOS AIRES",
-        "tipo_local": "",
+        "tipo_local": "-",
         "razon_social": "NORAND SAS",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "004"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLOZ",
-        "sigla_tickets": "FMLOA",
+        "sigla_tickets": "FLOA,FMLOA",
         "regional": "Hernán Dalto",
         "supervisor": "Micaela Pardo",
         "local": "Lomas Auto",
         "email": "lomas2@mostazaweb.com.ar",
-        "direccion": "Hipolito Yrigoyen 3916",
+        "direccion": "Av. Hipólito Yrigoyen 3916",
         "ciudad": "Lomas Oeste",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "LOMAS BURGER POINT SA",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "046"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMLCA",
-        "sigla_tickets": "FMLCA",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Micaela Pardo",
         "local": "Lomas",
-        "email": "",
-        "direccion": "Fonrouge 111 piso 7 dpto 6",
+        "email": "-",
+        "direccion": "España 12 / Laprida 200",
         "ciudad": "Lomas de Zamora",
         "provincia": "BUENOS AIRES",
-        "tipo_local": "",
+        "tipo_local": "-",
         "razon_social": "LOMAS BURGER POINT SA",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "047"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLA2",
@@ -98,8 +93,7 @@ const localesData = [
         "razon_social": "MUSTARD S.R.L",
         "tecnico": "Anabella Guerrero",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "062"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMGD",
@@ -108,15 +102,14 @@ const localesData = [
         "supervisor": "Micaela Pardo",
         "local": "Montegrande",
         "email": "montegrande@mostazaweb.com.ar",
-        "direccion": "Leandro Alem 401",
+        "direccion": "Leandro N. Alem 401",
         "ciudad": "Monte Grande",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "DECHUNES S.R.L",
         "tecnico": "Anabella Guerrero",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "007"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FEZE",
@@ -125,32 +118,30 @@ const localesData = [
         "supervisor": "Micaela Pardo",
         "local": "Ezeiza",
         "email": "ezeiza@mostazaweb.com.ar",
-        "direccion": "Conquista del Desierto 322",
+        "direccion": "Av. Conquista del Desierto 322",
         "ciudad": "Ezeiza",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "AGOSBIAN S.R.L",
         "tecnico": "Anabella Guerrero",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "005"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMCAN",
-        "sigla_tickets": "FMCAN",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Micaela Pardo",
         "local": "Canning",
         "email": "canning@mostazaweb.com.ar",
-        "direccion": "interseccion ruta 58 y Ruta 16",
+        "direccion": "Av. Mariano Castex (RP58) y RP16",
         "ciudad": "CANNING",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
         "razon_social": "FGC FUELS MARKETING S.A",
         "tecnico": "Anabella Guerrero",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "006"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSJN",
@@ -166,8 +157,7 @@ const localesData = [
         "razon_social": "ALIMENTOS DEL OESTE S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "023"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSJ2",
@@ -183,8 +173,7 @@ const localesData = [
         "razon_social": "ALIMENTOS DEL OESTE S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "024"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLPA",
@@ -193,15 +182,14 @@ const localesData = [
         "supervisor": "Micaela Pardo",
         "local": "La Pampa",
         "email": "santarosa@mostazaweb.com.ar",
-        "direccion": "AV SAN MARTIN 125",
+        "direccion": "Av. San Martín 125",
         "ciudad": "SANTA ROSA",
         "provincia": "LA PAMPA",
         "tipo_local": "A la calle",
         "razon_social": "CALDENIA GASTRONOMICA S.R.L.",
         "tecnico": "Tomás Vera",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "064"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMP1",
@@ -210,15 +198,14 @@ const localesData = [
         "supervisor": "Mayra Illuminati",
         "local": "Gallegos",
         "email": "losgallegos@mostazaweb.com.ar",
-        "direccion": "BELGRANO 3050",
+        "direccion": "Belgrano 3050 (Shopping Los Gallegos)",
         "ciudad": "MAR DEL PLATA",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Shopping",
         "razon_social": "FERNANDEZ NATALIA Y DE ZUBIZARRETA FERNANDO S.H.",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "milluminati@mostazaweb.com.ar",
-        "id_gen_online": "075"
+        "email_supervisor": "milluminati@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMP2",
@@ -227,15 +214,14 @@ const localesData = [
         "supervisor": "Mayra Illuminati",
         "local": "Aldrey",
         "email": "paseoaldrey@mostazaweb.com.ar",
-        "direccion": "SARMIENTO 2685",
+        "direccion": "Sarmiento 2685 (Paseo Aldrey)",
         "ciudad": "MAR DEL PLATA",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Shopping",
         "razon_social": "FERNANDEZ NATALIA Y DE ZUBIZARRETA FERNANDO S.H.",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "milluminati@mostazaweb.com.ar",
-        "id_gen_online": "076"
+        "email_supervisor": "milluminati@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMD3",
@@ -244,49 +230,46 @@ const localesData = [
         "supervisor": "Mayra Illuminati",
         "local": "La Perla",
         "email": "laperla@mostazaweb.com.ar",
-        "direccion": "HIPOLITO YRIGOYEN 1008",
+        "direccion": "Hipólito Yrigoyen 1008",
         "ciudad": "MAR DEL PLATA",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "VILLA MATILDE MDQ S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "milluminati@mostazaweb.com.ar",
-        "id_gen_online": "077"
+        "email_supervisor": "milluminati@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMDQ4",
-        "sigla_tickets": "FMDQ4",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Mayra Illuminati",
-        "local": "San Martin 2",
+        "local": "Mar del Plata Peatonal",
         "email": "mardelplata4@mostazaweb.com.ar",
-        "direccion": "SAN MARTIN 2501",
+        "direccion": "Peatonal San Martín 2501",
         "ciudad": "MAR DEL PLATA",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "VILLA MATILDE MDQ S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "milluminati@mostazaweb.com.ar",
-        "id_gen_online": "078"
+        "email_supervisor": "milluminati@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FOLAV",
-        "sigla_tickets": "FOLAV",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Mayra Illuminati",
         "local": "Olavarría",
         "email": "olavarria@mostazaweb.com.ar",
-        "direccion": "AV.COLON 2716",
+        "direccion": "Av. Colón 2716",
         "ciudad": "OLAVARRIA",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
         "razon_social": "FERNANDEZ NATALIA Y DE ZUBIZARRETA FERNANDO S.H.",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "milluminati@mostazaweb.com.ar",
-        "id_gen_online": "079"
+        "email_supervisor": "milluminati@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FCTA",
@@ -295,19 +278,18 @@ const localesData = [
         "supervisor": "Mayra Illuminati",
         "local": "Tandil",
         "email": "tandil@mostazaweb.com.ar",
-        "direccion": "PANAMA 353",
+        "direccion": "Panamá 353",
         "ciudad": "TANDIL",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Shopping",
         "razon_social": "FERNANDEZ NATALIA Y DE ZUBIZARRETA FERNANDO S.H.",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "milluminati@mostazaweb.com.ar",
-        "id_gen_online": "080"
+        "email_supervisor": "milluminati@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "TRD2",
-        "sigla_tickets": "TRD2",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Mayra Illuminati",
         "local": "Tandil 2",
@@ -319,8 +301,7 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "FLP2",
@@ -329,15 +310,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "La Plata 2",
         "email": "laplata2@mostazaweb.com.ar",
-        "direccion": "calle 47 627 (e 7 y 8)",
+        "direccion": "Calle 47 N° 627 (e/ 7 y 8)",
         "ciudad": "La Plata",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "FRANUS S.A",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "034"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLP3",
@@ -346,15 +326,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "La Plata 3",
         "email": "laplata3@mostazaweb.com.ar",
-        "direccion": "calle 8 932 (e 50 y 51)",
+        "direccion": "Calle 8 N° 932 (e/ 50 y 51)",
         "ciudad": "La Plata",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "GUSPABEL-SOL S.A.",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "035"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLP4",
@@ -363,15 +342,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "La Plata 4",
         "email": "lp4@mostazaweb.com.ar",
-        "direccion": "calle 12 1200 y calle 56",
+        "direccion": "Calle 12 N° 1152 (e/ 56 y 57)",
         "ciudad": "La Plata",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "FRANUS S.A",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "036"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FCYB",
@@ -380,15 +358,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "City Bell",
         "email": "citybell@mostazaweb.com.ar",
-        "direccion": "av cantilo 282",
+        "direccion": "Calle Cantilo (Calle 473) 282",
         "ciudad": "City Bell",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "MEMASES S.A.",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "037"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FRDN",
@@ -397,15 +374,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "República",
         "email": "republica@mostazaweb.com.ar",
-        "direccion": "Calle 34 entre 12 y 13",
+        "direccion": "Camino General Belgrano y Calle 501",
         "ciudad": "La Plata",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "SOBREMESA S.R.L",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "038"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FGON",
@@ -414,15 +390,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "Gonnet",
         "email": "gonnet@mostazaweb.com.ar",
-        "direccion": "Calle 522 esquina 19",
+        "direccion": "Cam. General Belgrano y Calle 522",
         "ciudad": "La Plata",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
         "razon_social": "TEN POINTS S.A.",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "043"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMRG",
@@ -431,15 +406,14 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "Rotonda",
         "email": "gutierrez@mostazaweb.com.ar",
-        "direccion": "Avenida presidente Illia N°25",
+        "direccion": "Av. Presidente Néstor Kirchner (Illia) 25",
         "ciudad": "Berazategui",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
         "razon_social": "NINE POINTS",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "045"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FBER",
@@ -448,19 +422,18 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "Berazategui",
         "email": "berazategui@mostazaweb.com.ar",
-        "direccion": "Calle 14 Nro 4936",
+        "direccion": "Calle 14 N° 4936",
         "ciudad": "Berazategui",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "MOSTABERA SAS",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "044"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMWVP",
-        "sigla_tickets": "FMWVP",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Brenda Moreno",
         "local": "Wilde",
@@ -472,8 +445,7 @@ const localesData = [
         "razon_social": "Mitre Burguer Point SA",
         "tecnico": "Anabella Guerrero",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "048"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FCQU",
@@ -482,32 +454,30 @@ const localesData = [
         "supervisor": "Brenda Moreno",
         "local": "Carre Quilmes",
         "email": "carrefourquilmes@mostazaweb.com.ar",
-        "direccion": "Av la plata 1400",
+        "direccion": "Av. La Plata 1400 (Carrefour Quilmes)",
         "ciudad": "Quilmes",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Shopping",
         "razon_social": "OCTOPUS GROUP S.A.",
         "tecnico": "Anabella Guerrero",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "063"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FUSH",
-        "sigla_tickets": "FUSHA",
+        "sigla_tickets": "FSHU,FUSHA",
         "regional": "Hernán Dalto",
         "supervisor": "Brenda Moreno",
         "local": "Ushuaia",
         "email": "ushuaia@mostazaweb.com.ar",
-        "direccion": "shopping Paseo del FUego",
+        "direccion": "Av. Perito Moreno 1460 (Paseo del Fuego)",
         "ciudad": "Ushuaia",
         "provincia": "TIERRA DEL FUEGO",
         "tipo_local": "Shopping",
         "razon_social": "LOGISTICA Y SERVICIOS S.R.L.",
         "tecnico": "Tomás Vera",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "050"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FRGD",
@@ -523,8 +493,7 @@ const localesData = [
         "razon_social": "LOGISTICA Y SERVICIOS S.R.L.",
         "tecnico": "Tomás Vera",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "051"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FRGA",
@@ -540,8 +509,7 @@ const localesData = [
         "razon_social": "ANDES FOOD S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "073"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FPSA",
@@ -550,15 +518,14 @@ const localesData = [
         "supervisor": "Fabrizio Bollero",
         "local": "Portal Salta",
         "email": "portalsalta@mostazaweb.com.ar",
-        "direccion": "20 de Febrero 1437",
+        "direccion": "20 de Febrero 1437 (Portal Salta)",
         "ciudad": "SALTA",
         "provincia": "SALTA",
         "tipo_local": "Shopping",
         "razon_social": "GASTRONOMIA SAN FRANCISCO S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": "052"
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSLI",
@@ -567,15 +534,14 @@ const localesData = [
         "supervisor": "Fabrizio Bollero",
         "local": "Salta Libertad",
         "email": "saltalibertad@mostazaweb.com.ar",
-        "direccion": "Av Tavella s/n",
+        "direccion": "Av. Ex Combatientes de Malvinas / Tavella s/n",
         "ciudad": "SALTA",
         "provincia": "SALTA",
         "tipo_local": "Shopping",
         "razon_social": "ZONSUR S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": "053"
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSVP",
@@ -584,15 +550,14 @@ const localesData = [
         "supervisor": "Fabrizio Bollero",
         "local": "Salta Peatonal",
         "email": "saltapeatonal@mostazaweb.com.ar",
-        "direccion": "ALBERDI 242",
+        "direccion": "Peatonal Alberdi 242",
         "ciudad": "SALTA",
         "provincia": "SALTA",
         "tipo_local": "A la calle",
-        "razon_social": "LIBERTAD OPERACIONES  S.A",
+        "razon_social": "AMICI VERDE S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": "054"
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSAA",
@@ -601,15 +566,14 @@ const localesData = [
         "supervisor": "Fabrizio Bollero",
         "local": "Salta Auto",
         "email": "saltaesquinaauto@mostazaweb.com.ar",
-        "direccion": "Av. Reyes Católicos y Las Palmeras",
+        "direccion": "Av. Reyes Católicos 1500",
         "ciudad": "SALTA",
         "provincia": "SALTA",
         "tipo_local": "A la calle",
         "razon_social": "SABADI SRL",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": "055"
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FJUJ",
@@ -618,36 +582,34 @@ const localesData = [
         "supervisor": "Fabrizio Bollero",
         "local": "Jujuy",
         "email": "jujuy@mostazaweb.com.ar",
-        "direccion": "Belgrano 563 piso 2 local 308",
+        "direccion": "Belgrano 563 (Anuor Shopping)",
         "ciudad": "San Salvador de Jujuy",
         "provincia": "JUJUY",
         "tipo_local": "Shopping",
         "razon_social": "CANDELIA S.R.L.",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": "057"
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSAO",
-        "sigla_tickets": "FSAO",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Fabrizio Bollero",
         "local": "Salta Orán",
         "email": "oran@mostazaweb.com.ar",
-        "direccion": "LOPEZ Y PLANES 585",
+        "direccion": "López y Planes 585",
         "ciudad": "ORAN",
         "provincia": "SALTA",
         "tipo_local": "A la calle",
         "razon_social": "ZENTA FOOD",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": "058"
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMSAA",
-        "sigla_tickets": "FMSAA",
+        "sigla_tickets": "",
         "regional": "Hernán Dalto",
         "supervisor": "Fabrizio Bollero",
         "local": "Salta Auto 2",
@@ -659,29 +621,11 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
-    },
-    {
-        "sigla_sistema": "FJUJ",
-        "sigla_tickets": "FJUJ",
-        "regional": "Hernán Dalto",
-        "supervisor": "Fabrizio Bollero",
-        "local": "Jujuy 2",
-        "email": "jujuy@mostazaweb.com.ar",
-        "direccion": "Belgrano 563 piso 2 local 308",
-        "ciudad": "San Salvador de Jujuy",
-        "provincia": "JUJUY",
-        "tipo_local": "Shopping",
-        "razon_social": "",
-        "tecnico": "Francisco Rametta",
-        "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "fbollero@mostazaweb.com.ar",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "FMCNT",
-        "sigla_tickets": "FMCNT",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Constitución",
@@ -693,25 +637,23 @@ const localesData = [
         "razon_social": "MAYONESA S.R.L",
         "tecnico": "Anabella Guerrero",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "060"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMPYA",
-        "sigla_tickets": "FMPYA",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Pompeya",
         "email": "pompeya@mostazaweb.com.ar",
-        "direccion": "Avenida Saenz 1043",
+        "direccion": "Av. Sáenz 1043",
         "ciudad": "Pompeya",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "EXPANSION DRF S.R.L.",
         "tecnico": "Anabella Guerrero",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "074"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMTER",
@@ -719,16 +661,15 @@ const localesData = [
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Terrada",
-        "email": "",
+        "email": "-",
         "direccion": "Av. Rivadavia 7299",
         "ciudad": "Flores",
         "provincia": "CABA",
-        "tipo_local": "",
+        "tipo_local": "-",
         "razon_social": "SINERGIA SAS",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "070"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FFLO",
@@ -737,49 +678,46 @@ const localesData = [
         "supervisor": "Aylen Crespin",
         "local": "Flores",
         "email": "flores@mostazaweb.com.ar",
-        "direccion": "AV RIVADAVIA 6912",
+        "direccion": "Av. Rivadavia 6912",
         "ciudad": "FLORES",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "MAGRETA S.A.",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "066"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMPRI",
-        "sigla_tickets": "FMPRI",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Primera Junta",
         "email": "primerajunta@mostazaweb.com.ar",
-        "direccion": "AV RIVADAVIA 5576",
+        "direccion": "Av. Rivadavia 5576",
         "ciudad": "CABALLITO",
         "provincia": "CABA",
         "tipo_local": "Auto Mostaza",
         "razon_social": "BIG B POINTS S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "067"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMONC",
-        "sigla_tickets": "FMONC",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Once",
         "email": "once@mostazaweb.com.ar",
-        "direccion": "AV RIVADAVIA 2261",
+        "direccion": "Av. Rivadavia 2261",
         "ciudad": "ONCE",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "EVOLUCION DRF S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "069"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FCAB",
@@ -788,32 +726,30 @@ const localesData = [
         "supervisor": "Aylen Crespin",
         "local": "Cabildo",
         "email": "cabildo@mostazaweb.com.ar",
-        "direccion": "CABILDO 2150",
+        "direccion": "Av. Cabildo 2150",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "MTZ CABILDO SAS",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "010"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMCYM",
-        "sigla_tickets": "FMCYM",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Cabildo 2",
         "email": "cabildo2@mostazaweb.com.ar",
-        "direccion": "CABILDO 2530",
+        "direccion": "Av. Cabildo 2530",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
-        "razon_social": "MTZ CABILDO SAS",
+        "razon_social": "MOSTAZA 2530 S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "011"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSPI",
@@ -822,15 +758,14 @@ const localesData = [
         "supervisor": "Aylen Crespin",
         "local": "Spinetto",
         "email": "spinetto@mostazaweb.com.ar",
-        "direccion": "Adolfo Alsina 2302",
+        "direccion": "Adolfo Alsina 2302 (Spinetto Shopping)",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "Shopping",
         "razon_social": "ROS GROUP S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "061"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FBOL",
@@ -839,36 +774,34 @@ const localesData = [
         "supervisor": "Aylen Crespin",
         "local": "Bolívar",
         "email": "bolivar@mostazaweb.com.ar",
-        "direccion": "DOMINGO FAUSTINO SARMIENTO 770",
+        "direccion": "Av. Sarmiento 770",
         "ciudad": "BOLIVAR",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "COMERCIAL BOLIVAR S.A.",
         "tecnico": "Tomás Vera",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "071"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMJUN",
-        "sigla_tickets": "FMJUN",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Junín",
         "email": "junin@mostazaweb.com.ar",
-        "direccion": "Benito de Miguel 140",
+        "direccion": "Av. San Martín 151",
         "ciudad": "Junín",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "COMERCIAL BOLIVAR S.A.",
         "tecnico": "Tomás Vera",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "072"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMFOR",
-        "sigla_tickets": "FMFOR",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Aylen Crespin",
         "local": "Formosa",
@@ -880,8 +813,7 @@ const localesData = [
         "razon_social": "IDAVE SRL",
         "tecnico": "Tomás Vera",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "065"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FTU2",
@@ -897,8 +829,7 @@ const localesData = [
         "razon_social": "GASTRONOMIA MODERNA S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "025"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FTU3",
@@ -914,8 +845,7 @@ const localesData = [
         "razon_social": "DRAS S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "026"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FTU4",
@@ -924,19 +854,18 @@ const localesData = [
         "supervisor": "Ailen Perez",
         "local": "Tucumán 4",
         "email": "tucuman4@mostazaweb.com.ar",
-        "direccion": "Av Juan Domingo Peron 1900",
+        "direccion": "Av. Fermín Cariola 42 (Portal Tucumán)",
         "ciudad": "YERBA BUENA",
         "provincia": "TUCUMAN",
         "tipo_local": "Shopping",
         "razon_social": "ZONSUR S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "027"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FTC5",
-        "sigla_tickets": "FTC5",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Ailen Perez",
         "local": "Tucumán 5",
@@ -948,8 +877,7 @@ const localesData = [
         "razon_social": "FELMOR GROUP SAS",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "028"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FTC6",
@@ -958,19 +886,18 @@ const localesData = [
         "supervisor": "Ailen Perez",
         "local": "Tucumán 6",
         "email": "tucuman6@mostazaweb.com.ar",
-        "direccion": "SOLDATI 26",
+        "direccion": "Av. Soldati 26",
         "ciudad": "S.M. DE TUCUMAN",
         "provincia": "TUCUMAN",
         "tipo_local": "Auto Mostaza",
         "razon_social": "REDFOOD SRL",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "029"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMTU7",
-        "sigla_tickets": "FMTU7",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Ailen Perez",
         "local": "Tucumán 7",
@@ -982,8 +909,7 @@ const localesData = [
         "razon_social": "GOLDENSIDE S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "030"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FTC8",
@@ -999,25 +925,39 @@ const localesData = [
         "razon_social": "PUNTO 24",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "031"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMTU9",
-        "sigla_tickets": "FMTU9",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Ailen Perez",
         "local": "Tucumán 9",
         "email": "tucuman9@mostazaweb.com.ar",
-        "direccion": "AV. PERON 1500",
+        "direccion": "Av. Presidente Perón 1500",
         "ciudad": "Tucumán",
         "provincia": "TUCUMAN",
         "tipo_local": "Auto Mostaza",
         "razon_social": "MILON SAS",
         "tecnico": "Francisco Rametta",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "aperez@mostazaweb.com.ar",
-        "id_gen_online": "033"
+        "email_supervisor": "aperez@mostazaweb.com.ar"
+    },
+    {
+        "sigla_sistema": "MPT",
+        "sigla_tickets": "MPTG",
+        "regional": "Cecilia Riccadonna",
+        "supervisor": "Joaquin Aquino",
+        "local": "Portal Tucumán",
+        "email": "tucuman@mostazaweb.com.ar",
+        "direccion": "Av. Fermín Cariola 42 (Portal Tucumán)",
+        "ciudad": "YERBA BUENA",
+        "provincia": "TUCUMAN",
+        "tipo_local": "-",
+        "razon_social": "Propios",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "FSDE",
@@ -1026,15 +966,14 @@ const localesData = [
         "supervisor": "Ailen Perez",
         "local": "S. del Estero",
         "email": "portalsantiago@mostazaweb.com.ar",
-        "direccion": "Av ejercito Argentino y rivadavia",
+        "direccion": "Av. Ejército Argentino e/ Rivadavia y Jujuy",
         "ciudad": "Sgo. del Estero",
         "provincia": "SGO DEL ESTERO",
         "tipo_local": "Shopping",
         "razon_social": "GASTRONOMIA MODERNA S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "039"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLUJ",
@@ -1043,19 +982,18 @@ const localesData = [
         "supervisor": "Paula Martinez",
         "local": "Luján",
         "email": "lujan@mostazaweb.com.ar",
-        "direccion": "AV SAN MARTIN 165",
+        "direccion": "Av. San Martín 165",
         "ciudad": "LUJAN",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "CLONI S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "020"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FFRA",
-        "sigla_tickets": "FFRA",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Paula Martinez",
         "local": "F. Álvarez",
@@ -1067,8 +1005,7 @@ const localesData = [
         "razon_social": "EL SEÑUELO SAS",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "018"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMER",
@@ -1077,32 +1014,14 @@ const localesData = [
         "supervisor": "Paula Martinez",
         "local": "Merlo",
         "email": "merlo@mostazaweb.com.ar",
-        "direccion": "AV LIBERTADOR 487",
+        "direccion": "Av. del Libertador 487",
         "ciudad": "MERLO",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "BARSI FOOD S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "086"
-    },
-    {
-        "sigla_sistema": "FMMVP",
-        "sigla_tickets": "FMMVP",
-        "regional": "Cecilia Riccadonna",
-        "supervisor": "Paula Martinez",
-        "local": "Morón",
-        "email": "moron@mostazaweb.com.ar",
-        "direccion": "BELGRANO 274",
-        "ciudad": "MORON",
-        "provincia": "BUENOS AIRES",
-        "tipo_local": "",
-        "razon_social": "GRUPO AGL",
-        "tecnico": "",
-        "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FLIN",
@@ -1111,19 +1030,18 @@ const localesData = [
         "supervisor": "Paula Martinez",
         "local": "Liniers",
         "email": "liniers@mostazaweb.com.ar",
-        "direccion": "AV RIVADAVIA 11576",
+        "direccion": "Av. Rivadavia 11576",
         "ciudad": "LINIERS",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "PARADOR 71 S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "rayala@mostazaweb.com.ar",
-        "id_gen_online": "068"
+        "email_supervisor": "rayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSM2",
-        "sigla_tickets": "FMSM3",
+        "sigla_tickets": "FMSM3,FSM3",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Paula Martinez",
         "local": "San Miguel 3",
@@ -1135,42 +1053,39 @@ const localesData = [
         "razon_social": "JULUSA",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "084"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMSMA",
-        "sigla_tickets": "FMSMA",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Paula Martinez",
-        "local": "San Miguel A.",
+        "local": "SAN MIGUEL AUTO",
         "email": "sanmiguelauto@mostazaweb.com.ar",
-        "direccion": "ARTURO ILLIA 3811",
+        "direccion": "Av. Presidente Arturo U. Illia 3811",
         "ciudad": "SAN MIGUEl",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
-        "razon_social": "JULUSA",
+        "razon_social": "LOS INVENCIBLES S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "085"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSAF",
-        "sigla_tickets": "FSAF",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Paula Martinez",
         "local": "San Fernando",
         "email": "sanfernando@mostazaweb.com.ar",
-        "direccion": "CONSTITUCION 804",
+        "direccion": "Constitución 804",
         "ciudad": "SAN FERNANDO",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
-        "razon_social": "L.C TRESEM  S.R.L",
+        "razon_social": "L.C. TRESM S.R.L.",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "081"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMORE",
@@ -1186,8 +1101,7 @@ const localesData = [
         "razon_social": "EL SEÑUELO SAS",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "019"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FCOR",
@@ -1203,25 +1117,23 @@ const localesData = [
         "razon_social": "CUANTODEJA SRL",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "087"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMRES",
-        "sigla_tickets": "FMRES",
+        "sigla_tickets": "",
         "regional": "Cecilia Riccadonna",
         "supervisor": "Paula Martinez",
         "local": "Resistencia",
         "email": "resistencia@mostazaweb.com.ar",
-        "direccion": "Sta Maria de oro y Roca 99",
+        "direccion": "Santa María de Oro y Roca 99",
         "ciudad": "Resistencia",
         "provincia": "CHACO",
         "tipo_local": "A la calle",
         "razon_social": "GASTRONOMIA MODERNA S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "088"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSLS",
@@ -1237,12 +1149,11 @@ const localesData = [
         "razon_social": "GRUPO KRAN S. A. S.",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "089"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FVDP",
-        "sigla_tickets": "FVDP",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Iris Ayala",
         "local": "Villa del Parque",
@@ -1254,12 +1165,11 @@ const localesData = [
         "razon_social": "TRESOL",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "001"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMMCB",
-        "sigla_tickets": "FMMCB",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Iris Ayala",
         "local": "Caseros",
@@ -1271,25 +1181,23 @@ const localesData = [
         "razon_social": "TRESOL",
         "tecnico": "Tomás Vera",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "FMSVP",
-        "sigla_tickets": "FMSVP",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Iris Ayala",
-        "local": "San Martín 2",
+        "local": "SAN MARTIN PEATONAL",
         "email": "smpeatonal@mostazaweb.com.ar",
         "direccion": "ALBERTO CAMPOS 2045",
         "ciudad": "SAN MARTIN",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
-        "razon_social": "LIBERTAD OPERACIONES  S.A",
+        "razon_social": "CORTINA 1444 SRL",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "021"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSMA",
@@ -1298,15 +1206,14 @@ const localesData = [
         "supervisor": "Iris Ayala",
         "local": "San Martín Auto",
         "email": "sanmartinauto@mostazaweb.com.ar",
-        "direccion": "RICARDO BALBIN 2276",
+        "direccion": "Av. Ricardo Balbín 2276",
         "ciudad": "SAN MARTIN",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
         "razon_social": "LOS INVENCIBLES S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "pmartinez@mostazaweb.com.ar",
-        "id_gen_online": "022"
+        "email_supervisor": "pmartinez@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSIS",
@@ -1322,8 +1229,7 @@ const localesData = [
         "razon_social": "BARSI FOOD S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "015"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FGBG",
@@ -1339,8 +1245,7 @@ const localesData = [
         "razon_social": "ZVEZA S.R.L",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "082"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FJCP",
@@ -1349,15 +1254,14 @@ const localesData = [
         "supervisor": "Iris Ayala",
         "local": "José C. Paz",
         "email": "josecpaz@mostazaweb.com.ar",
-        "direccion": "Hipólito Yrigoyen 1740",
+        "direccion": "Av. José Altube / H. Yrigoyen 1740",
         "ciudad": "José C Paz",
         "provincia": "BUENOS AIRES",
         "tipo_local": "A la calle",
         "razon_social": "BURGERBUS S.A.",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "rpereiro@mostazaweb.com.ar",
-        "id_gen_online": "083"
+        "email_supervisor": "rpereiro@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FZAR",
@@ -1373,8 +1277,7 @@ const localesData = [
         "razon_social": "LYSON",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "mpardo@mostazaweb.com.ar",
-        "id_gen_online": "008"
+        "email_supervisor": "mpardo@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FPPI",
@@ -1383,19 +1286,18 @@ const localesData = [
         "supervisor": "Iris Ayala",
         "local": "Palmas Pilar",
         "email": "palmasdelpilar@mostazaweb.com.ar",
-        "direccion": "LAS MAGNOLIAS 754",
+        "direccion": "Las Magnolias 754 (Palmas del Pilar)",
         "ciudad": "PILAR",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Shopping",
         "razon_social": "AYAM MARCELO ROBERTO",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "014"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMRVP",
-        "sigla_tickets": "FMRVP",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Iris Ayala",
         "local": "La Rioja",
@@ -1407,8 +1309,7 @@ const localesData = [
         "razon_social": "ARLEQUINO SRL",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "016"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FCAT",
@@ -1424,12 +1325,11 @@ const localesData = [
         "razon_social": "CORCAN S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "017"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMGUA",
-        "sigla_tickets": "FMGUA",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Iris Ayala",
         "local": "Gualeguaychú",
@@ -1441,8 +1341,7 @@ const localesData = [
         "razon_social": "MOSTAZA GUALEGUAYCHU SRL",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": "009"
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "FPCH",
@@ -1451,15 +1350,14 @@ const localesData = [
         "supervisor": "Camilo Silva",
         "local": "Parque Chac",
         "email": "chacabuco@mostazaweb.com.ar",
-        "direccion": "AV ASAMBLEA 915",
+        "direccion": "Av. Asamblea 915",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "EZIO S.A",
         "tecnico": "Fernando Soria",
         "email_regional": "criccaddona@mostazaweb.com.ar",
-        "email_supervisor": "acrespin@mostazaweb.com.ar",
-        "id_gen_online": "059"
+        "email_supervisor": "acrespin@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FBOE",
@@ -1468,15 +1366,14 @@ const localesData = [
         "supervisor": "Camilo Silva",
         "local": "Boedo",
         "email": "boedo@mostazaweb.com.ar",
-        "direccion": "Boedo 750",
+        "direccion": "Av. Boedo 750",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "BOEDO GOURMET SRL",
         "tecnico": "Fernando Soria",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "090"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSTM",
@@ -1492,8 +1389,7 @@ const localesData = [
         "razon_social": "ROSDA S.R.L",
         "tecnico": "Anabella Guerrero",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "091"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FAVM",
@@ -1502,15 +1398,14 @@ const localesData = [
         "supervisor": "Camilo Silva",
         "local": "Av. de Mayo",
         "email": "avenidademayo@mostazaweb.com.ar",
-        "direccion": "avenida de mayo 1402",
+        "direccion": "Av. de Mayo 1402",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "TREVAGO S.A.",
         "tecnico": "Fernando Soria",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "092"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FAVM2",
@@ -1526,8 +1421,7 @@ const localesData = [
         "razon_social": "TREVAGO S.A.",
         "tecnico": "Fernando Soria",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "093"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "F9DJ",
@@ -1536,49 +1430,30 @@ const localesData = [
         "supervisor": "Camilo Silva",
         "local": "9 de Julio",
         "email": "9dejulio@mostazaweb.com.ar",
-        "direccion": "av santa fe 1101",
+        "direccion": "Av. Santa Fe 1101",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "L&A BURGER",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "094"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMCYC",
-        "sigla_tickets": "FMCYC",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Camilo Silva",
         "local": "Callao",
         "email": "corrientes3@mostazaweb.com.ar",
-        "direccion": "AV CALLAO 402",
+        "direccion": "Av. Callao 402",
         "ciudad": "CABA",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "CUANTODEJA SRL",
         "tecnico": "Tomás Vera",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "095"
-    },
-    {
-        "sigla_sistema": "",
-        "sigla_tickets": "",
-        "regional": "Melisa Castillo",
-        "supervisor": "Camilo Silva",
-        "local": "Av. Córdoba",
-        "email": "",
-        "direccion": "",
-        "ciudad": "",
-        "provincia": "",
-        "tipo_local": "",
-        "razon_social": "",
-        "tecnico": "",
-        "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FURQ",
@@ -1594,8 +1469,7 @@ const localesData = [
         "razon_social": "LOS INVENCIBLES S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "013"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FRSF",
@@ -1604,15 +1478,14 @@ const localesData = [
         "supervisor": "Camilo Silva",
         "local": "Ribera Santa Fe",
         "email": "santafe@mostazaweb.com.ar",
-        "direccion": "shopping la ribera dique 1",
+        "direccion": "Dique 1 (Shopping La Ribera)",
         "ciudad": "santa fe",
         "provincia": "SANTA FE",
         "tipo_local": "Shopping",
         "razon_social": "OPERADOR RIBERA S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "097"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FWSF",
@@ -1621,32 +1494,30 @@ const localesData = [
         "supervisor": "Camilo Silva",
         "local": "Walmart Sta. Fe",
         "email": "wsantafe@mostazaweb.com.ar",
-        "direccion": "Ruta 168 km",
+        "direccion": "Ruta Nacional 168 Km 472 (ChangoMás)",
         "ciudad": "santa fe",
         "provincia": "SANTA FE",
         "tipo_local": "Shopping",
         "razon_social": "IMEGA S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "098"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMSFV",
-        "sigla_tickets": "FMSFV",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Camilo Silva",
         "local": "Santa Fe P.",
         "email": "santafe4@mostazaweb.com.ar",
-        "direccion": "San martin 2601",
+        "direccion": "Peatonal San Martín 2601",
         "ciudad": "santa fe",
         "provincia": "SANTA FE",
         "tipo_local": "A la calle",
         "razon_social": "LIBERTAD OPERACIONES  S.A",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "099"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FRAF",
@@ -1662,8 +1533,7 @@ const localesData = [
         "razon_social": "IMPRUV S.A.",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "csilva@mostazaweb.com.ar",
-        "id_gen_online": "096"
+        "email_supervisor": "csilva@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FPRO",
@@ -1672,15 +1542,14 @@ const localesData = [
         "supervisor": "Elisabet Gassman",
         "local": "Portal Rosario",
         "email": "portalrosario@mostazaweb.com.ar",
-        "direccion": "NANSE 323",
+        "direccion": "Nansen 323 (Portal Rosario Shopping)",
         "ciudad": "ROSARIO",
         "provincia": "SANTA FE",
         "tipo_local": "Shopping",
         "razon_social": "IMEGA S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "100"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FPEL",
@@ -1689,32 +1558,30 @@ const localesData = [
         "supervisor": "Elisabet Gassman",
         "local": "Pellegrini",
         "email": "pellegrinirosario@mostazaweb.com.ar",
-        "direccion": "Pellegrini 1431",
+        "direccion": "Av. Pellegrini 1431",
         "ciudad": "Rosario",
         "provincia": "SANTA FE",
         "tipo_local": "Auto Mostaza",
         "razon_social": "PELLEGRINI BEST FOOD S.A",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "101"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FRSM",
-        "sigla_tickets": "FRSM",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Elisabet Gassman",
         "local": "Rosario Sur",
         "email": "rosariosur@mostazaweb.com.ar",
-        "direccion": "Avenida San Martin",
+        "direccion": "Av. San Martín 5250",
         "ciudad": "Rosario",
         "provincia": "SANTA FE",
         "tipo_local": "A la calle",
         "razon_social": "GAMISUR S.A",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "102"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FROA",
@@ -1723,19 +1590,18 @@ const localesData = [
         "supervisor": "Elisabet Gassman",
         "local": "Oroño",
         "email": "autoorono@mostazaweb.com.ar",
-        "direccion": "Oroño 3120",
+        "direccion": "Av. Bv. Oroño 3120",
         "ciudad": "Rosario",
         "provincia": "SANTA FE",
         "tipo_local": "Auto Mostaza",
         "razon_social": "MADILAGA S.A.",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "103"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMSNI",
-        "sigla_tickets": "FMSNI",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Elisabet Gassman",
         "local": "San Nicolás",
@@ -1747,29 +1613,27 @@ const localesData = [
         "razon_social": "PUA NANI S.R.L",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "104"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMPUM",
-        "sigla_tickets": "FMPUM",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Elisabet Gassman",
         "local": "Puma",
         "email": "pumarosario@mostazaweb.com.ar",
-        "direccion": "Autopista Rosario-BsAs KM 282",
+        "direccion": "Av. Córdoba 1291",
         "ciudad": "Funes",
         "provincia": "SANTA FE",
         "tipo_local": "Auto Mostaza",
         "razon_social": "FGC FUELS MARKETING S.A",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "105"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMFUN",
-        "sigla_tickets": "FMFUN",
+        "sigla_tickets": "",
         "regional": "Melisa Castillo",
         "supervisor": "Elisabet Gassman",
         "local": "Funes",
@@ -1781,99 +1645,125 @@ const localesData = [
         "razon_social": "ALADOS SA",
         "tecnico": "Francisco Rametta",
         "email_regional": "mcastillo@mostazaweb.com.ar",
-        "email_supervisor": "sorlando@mostazaweb.com.ar",
-        "id_gen_online": "106"
+        "email_supervisor": "sorlando@mostazaweb.com.ar"
+    },
+    {
+        "sigla_sistema": "MAR",
+        "sigla_tickets": "",
+        "regional": "Melisa Castillo",
+        "supervisor": "MILAGROS SANCHEZ",
+        "local": "Alto Rosario",
+        "email": "altorosario@mostazaweb.com.ar",
+        "direccion": "Junín 501 (Alto Rosario Shopping)",
+        "ciudad": "ROSARIO",
+        "provincia": "SANTA FE",
+        "tipo_local": "-",
+        "razon_social": "Propios",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "MCR",
+        "sigla_tickets": "",
+        "regional": "Melisa Castillo",
+        "supervisor": "MILAGROS SANCHEZ",
+        "local": "City Center",
+        "email": "citycenter@mostazaweb.com.ar",
+        "direccion": "Blvd. Oroño 3152",
+        "ciudad": "ROSARIO",
+        "provincia": "SANTA FE",
+        "tipo_local": "-",
+        "razon_social": "Propios",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "FGUE",
-        "sigla_tickets": "FGUE",
+        "sigla_tickets": "",
         "regional": "",
-        "supervisor": "",
+        "supervisor": "Iris Ayala",
         "local": "Güemes",
         "email": "guemes@mostazaweb.com.ar",
-        "direccion": "guemes 3901",
+        "direccion": "Güemes 3901",
         "ciudad": "PALERMO",
         "provincia": "CABA",
         "tipo_local": "A la calle",
         "razon_social": "LOS INVENCIBLES S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "mmedina@mostazaweb.com.ar",
-        "email_supervisor": "iayala@mostazaweb.com.ar",
-        "id_gen_online": "012"
+        "email_supervisor": "iayala@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMMSM",
-        "sigla_tickets": "FMMSM",
+        "sigla_tickets": "",
         "regional": "Darío D.",
         "supervisor": "Agustina Grigas",
-        "local": "Mendoza Centro",
+        "local": "MENDOZA CENTRO (Peatonal)",
         "email": "avsanmartin@mostazaweb.com.ar",
-        "direccion": "Lavalle 35 piso 5to depto 9",
+        "direccion": "Av. San Martín 1234",
         "ciudad": "Mendoza Capital",
         "provincia": "MENDOZA",
         "tipo_local": "A la calle",
-        "razon_social": "ALIMENTOS DEL OESTE S.R.L",
+        "razon_social": "JERAL MOSTAZA S.A.S.",
         "tecnico": "Fernando Soria",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "agrigas@mostazaweb.com.ar",
-        "id_gen_online": "040"
+        "email_supervisor": "agrigas@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FMMCO",
-        "sigla_tickets": "FMMCO",
+        "sigla_tickets": "",
         "regional": "Darío D.",
         "supervisor": "Agustina Grigas",
         "local": "Mendoza Colón",
         "email": "avcolon@mostazaweb.com.ar",
-        "direccion": "Chile 925 piso 9 depto 6",
+        "direccion": "Av. Colón 502 (esq. Chile)",
         "ciudad": "Mendoza Capital",
         "provincia": "MENDOZA",
         "tipo_local": "Auto Mostaza",
         "razon_social": "ALIMENTOS DEL OESTE S.R.L",
         "tecnico": "Fernando Soria",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "agrigas@mostazaweb.com.ar",
-        "id_gen_online": "041"
+        "email_supervisor": "agrigas@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FSRM",
-        "sigla_tickets": "FSRM",
+        "sigla_tickets": "",
         "regional": "Darío D.",
         "supervisor": "Agustina Grigas",
         "local": "San Rafael",
         "email": "sanrafael@mostazaweb.com.ar",
-        "direccion": "Hipolito Yrigoyen 1530",
+        "direccion": "Av. Hipólito Yrigoyen 1530",
         "ciudad": "San rafael",
         "provincia": "MENDOZA",
         "tipo_local": "Auto Mostaza",
         "razon_social": "FARTRES MDZ S.A",
         "tecnico": "Tomás Vera",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "bmoreno@mostazaweb.com.ar",
-        "id_gen_online": "042"
+        "email_supervisor": "bmoreno@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "FBA1",
         "sigla_tickets": "FMBRC",
         "regional": "",
-        "supervisor": "",
+        "supervisor": "Elisabet Gassman",
         "local": "Bariloche",
         "email": "bariloche@mostazaweb.com.ar",
-        "direccion": "Mitre 114",
+        "direccion": "Av. Francisco P. Moreno 380",
         "ciudad": "Bariloche",
         "provincia": "RIO NEGRO",
         "tipo_local": "A la calle",
         "razon_social": "BURIEL GASTRONOMICA S.A.",
         "tecnico": "Tomás Vera",
         "email_regional": "hdalto@mostazaweb.com.ar",
-        "email_supervisor": "egassman@mostazaweb.com.ar",
-        "id_gen_online": "049"
+        "email_supervisor": "egassman@mostazaweb.com.ar"
     },
     {
         "sigla_sistema": "MWG",
-        "sigla_tickets": "MWG",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "MELISA SARATIEGUI",
+        "supervisor": "Guillermina Garis",
         "local": "WALMART GUAYMALLEN",
         "email": "walmartmendoza@mostazaweb.com.ar",
         "direccion": "MOLDES 1221",
@@ -1883,14 +1773,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MBM",
-        "sigla_tickets": "MBM",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "LAUTARO PUEBLA",
+        "supervisor": "guillermina garis",
         "local": "BARRACAS MALL",
         "email": "barracamall@mostazaweb.com.ar",
         "direccion": "LAS CAÑAS 1833",
@@ -1900,14 +1789,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MML",
-        "sigla_tickets": "MML",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "DANISA MANZANELLI",
+        "supervisor": "Guillermina Garis",
         "local": "LUJAN DE CUYO",
         "email": "lujandecuyo@mostazaweb.com.ar",
         "direccion": "Av. Roque Saenz Peña 1110 esquina Corvalan",
@@ -1917,14 +1805,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MMZ",
-        "sigla_tickets": "MMZ",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "AGOSTINA GRIGAS",
+        "supervisor": "Guillermina Garis",
         "local": "MENDOZA",
         "email": "mendoza@mostazaweb.com.ar",
         "direccion": "AV.ACCESO ESTE 3280",
@@ -1934,14 +1821,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAM",
-        "sigla_tickets": "MAM",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "JAVIER MANUCCIA",
+        "supervisor": "Guillermina Garis",
         "local": "ARENA MAIPU",
         "email": "arenamaipu@mostazaweb.com.ar",
         "direccion": "EMILIO CIVIT 791 , MAIPU , MENDOZA",
@@ -1951,14 +1837,13 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLA",
-        "sigla_tickets": "MLA",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "MAILEN CASTILLO",
+        "supervisor": "JOHANA GONZALEZ",
         "local": "NEUQUEN  3 ( LA ANONIMA )",
         "email": "laanonimaneuquen@mostazaweb.com.ar",
         "direccion": "ANTARTIDA ARGENTINA 1111",
@@ -1968,31 +1853,29 @@ const localesData = [
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MNA",
-        "sigla_tickets": "MNA",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "BENJAMIN SALAZAR",
+        "supervisor": "JOHANA GONZALEZ",
         "local": "NEUQUEN 2  ALTO COMAHUE",
         "email": "altocomahue@mostazaweb.com.ar",
-        "direccion": "DR RAMON 355",
+        "direccion": "Dr. Ramón 355 (Alto Comahue Shopping)",
         "ciudad": "NEUQUEN",
         "provincia": "NEUQUEN",
-        "tipo_local": "",
+        "tipo_local": "Shopping",
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MNQ",
-        "sigla_tickets": "MNQ",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "YOSELIN PUENTES",
+        "supervisor": "JOHANA GONZALEZ",
         "local": "NEUQUEN  1",
         "email": "neuquen@motazaweb.com.ar",
         "direccion": "JULIAN LASTRA",
@@ -2002,14 +1885,13 @@ const localesData = [
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MWN",
-        "sigla_tickets": "MWN",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "LAUTARO INDORATO",
+        "supervisor": "JOHANA GONZALEZ",
         "local": "NEUQUEN  4  ( WALMART )",
         "email": "Walmartneuquen@mostazaweb.com.ar",
         "direccion": "RN 22 Y A. PERTICONE 1255",
@@ -2019,14 +1901,13 @@ const localesData = [
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAE",
-        "sigla_tickets": "MAE",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "FLORENCIA OTRERAS",
+        "supervisor": "Sofia Sas",
         "local": "AEROPARQUE",
         "email": "aeroparque@mostazaweb.com.ar",
         "direccion": "AV.COSTANERA RAFAEL OBLIGADO S/N",
@@ -2036,14 +1917,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MDO",
-        "sigla_tickets": "MDO",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "SELENE GARCIA",
+        "supervisor": "Sofia Sas",
         "local": "DOT",
         "email": "dot@mostazaweb.com.ar",
         "direccion": "Vedía 3626",
@@ -2053,14 +1933,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MVZ",
-        "sigla_tickets": "MVZ",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "MELINA MARTINEZ",
+        "supervisor": "Julieta Ochoa",
         "local": "CARREFOUR VELEZ",
         "email": "velez@mostazaweb.com.ar",
         "direccion": "Av. Alvarez Jonte 6383, CP 1408, CABA",
@@ -2070,14 +1949,13 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCW",
-        "sigla_tickets": "MCW",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "JOEL VERA",
+        "supervisor": "Julieta Ochoa",
         "local": "WARNES",
         "email": "warnes@mostazaweb.com.ar",
         "direccion": "Av. Warnes nº 2707",
@@ -2087,14 +1965,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MST",
-        "sigla_tickets": "MST",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "CAMILA ROMERO",
+        "supervisor": "Julieta Ochoa",
         "local": "SAN MARTIN",
         "email": "sanmartin@mostazaweb.com.ar",
         "direccion": "Av. Gral. Jose  San Martín 420",
@@ -2104,14 +1981,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MNC",
-        "sigla_tickets": "MNC",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "SOL GARCIA",
+        "supervisor": "Micaela Moreno",
         "local": "NORCENTER",
         "email": "norcenter@mostazaweb.com.ar",
         "direccion": "Esteban Echeverría 3750",
@@ -2121,14 +1997,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MOT",
-        "sigla_tickets": "MOT",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "AYELEN QUINTEROS",
+        "supervisor": "Micaela Moreno",
         "local": "TORTUGUITA",
         "email": "tortugas@mostazaweb.com.ar",
         "direccion": "Panamericana km36,5  Ramal oeste",
@@ -2138,14 +2013,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MSF",
-        "sigla_tickets": "MSF",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "REBECCA PRADO",
+        "supervisor": "Micaela Moreno",
         "local": "SOLEIL",
         "email": "soleil@mostazaweb.com.ar",
         "direccion": "Bernardo de Irigoyen 2647",
@@ -2155,14 +2029,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPP",
-        "sigla_tickets": "MPP",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "MARCOS POLZONI",
+        "supervisor": "Micaela Moreno",
         "local": "PASEO PILAR",
         "email": "paseopilar@mostazaweb.com.ar",
         "direccion": "panamericana, Ramal Pilar km 44, B1669 Del Viso",
@@ -2172,14 +2045,13 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MBP",
-        "sigla_tickets": "MBP",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "BARBARA PORTILLO",
+        "supervisor": "Micaela Moreno",
         "local": "PACHECO",
         "email": "pacheco@mostazaweb.com.ar",
         "direccion": "Av. Hipólito Yrigoyen 816, Gral. Pacheco, Provincia de Buenos Aires",
@@ -2189,14 +2061,13 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCT",
-        "sigla_tickets": "MCT",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "CRISTIAN MONTENEGRO",
+        "supervisor": "Julieta Ochoa",
         "local": "CONSTITUYENTES",
         "email": "constituyentes@mostazaweb.com.ar",
         "direccion": "Av. de los Constituyentes 6020,",
@@ -2206,14 +2077,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MDV",
-        "sigla_tickets": "MDV",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "MATIAS LOPEZ",
+        "supervisor": "Julieta Ochoa",
         "local": "DEVOTO",
         "email": "devoto@mostazaweb.com.ar",
         "direccion": "José Pedro Varela 4862",
@@ -2223,14 +2093,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPA",
-        "sigla_tickets": "MPA",
+        "sigla_tickets": "",
         "regional": "Alejandro Alvarez",
-        "supervisor": "LUCIANA FREDE",
+        "supervisor": "Sofia Sas",
         "local": "PANAMERICANA",
         "email": "panamericana@mostazaweb.com.ar",
         "direccion": "Parana 3999",
@@ -2240,14 +2109,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAN",
-        "sigla_tickets": "MAN",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "GISELLA RAMIREZ",
+        "supervisor": "JOHANA GONZALEZ",
         "local": "NEUQUEN AUTO",
         "email": "perticone@mostazaweb.com.ar",
         "direccion": "Perticonne 215",
@@ -2257,14 +2125,13 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MMH",
-        "sigla_tickets": "MMH",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "NATALIA DIMARCO",
+        "supervisor": "MILAGROS SANCHEZ",
         "local": "HAEDO AUTO",
         "email": "Haedo2@mostazaweb.com.ar",
         "direccion": "Av. Luis P. Güemes 452 Haedo",
@@ -2274,48 +2141,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
-    },
-    {
-        "sigla_sistema": "MAR",
-        "sigla_tickets": "MAR",
-        "regional": "GIMENA CONTE",
-        "supervisor": "CINTHIA SOSA",
-        "local": "ALTO ROSARIO",
-        "email": "altorosario@mostazaweb.com.ar",
-        "direccion": "JUNIN 501",
-        "ciudad": "ROSARIO",
-        "provincia": "SANTA FE",
-        "tipo_local": "",
-        "razon_social": "MOSTAZA Y PAN S.A.",
-        "tecnico": "",
-        "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": "107"
-    },
-    {
-        "sigla_sistema": "MCR",
-        "sigla_tickets": "MCR",
-        "regional": "GIMENA CONTE",
-        "supervisor": "NICOLE COFFARO",
-        "local": "CITY ROSARIO",
-        "email": "citycenter@mostazaweb.com.ar",
-        "direccion": "BV OROÑO Y AV. CIRCUNVALACION",
-        "ciudad": "ROSARIO",
-        "provincia": "SANTA FE",
-        "tipo_local": "",
-        "razon_social": "MOSTAZA Y PAN S.A.",
-        "tecnico": "",
-        "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": "108"
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MNI",
-        "sigla_tickets": "MNI",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "SOFIA AVALOS",
+        "supervisor": "ROMINA BINA",
         "local": "NINE",
         "email": "nine@mostazaweb.com.ar",
         "direccion": "Victorica 1128",
@@ -2325,14 +2157,29 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "MMVP",
+        "sigla_tickets": "",
+        "regional": "Gimena Conte",
+        "supervisor": "ROMINA BINA",
+        "local": "MORON",
+        "email": "moron@mostazaweb.com.ar",
+        "direccion": "BELGRANO 274",
+        "ciudad": "MORON",
+        "provincia": "BUENOS AIRES",
+        "tipo_local": "",
+        "razon_social": "MOSTAZA Y PAN S.A.",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPO",
-        "sigla_tickets": "MPO",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "XIMENA CABEZAS",
+        "supervisor": "MILAGROS SANCHEZ",
         "local": "PLAZA OESTE",
         "email": "MORON2@MOSTAZAWEB.COM.AR",
         "direccion": "Av Brig Gral Juan M. de Rosas 658",
@@ -2342,14 +2189,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MSM",
-        "sigla_tickets": "MSM",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "FRANCO FERNANDEZ",
+        "supervisor": "ROMINA BINA",
         "local": "SAN MIGUEL 1",
         "email": "sanmiguel@mostazaweb.com.ar",
         "direccion": "Ruta 8 Y 202 Av Arturo Illia3770",
@@ -2359,14 +2205,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLU",
-        "sigla_tickets": "MLU",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "MILAGROS MORUZZI",
+        "supervisor": "MILAGROS SANCHEZ",
         "local": "LUJAN 2",
         "email": "lujan2@mostazaweb.com.ar",
         "direccion": "Roberto Payro 198",
@@ -2376,14 +2221,13 @@ const localesData = [
         "razon_social": "MSOTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCS",
-        "sigla_tickets": "MCS",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "NADINE MORALES",
+        "supervisor": "ANTONELLA HORNA",
         "local": "SAN JUSTO 4",
         "email": "carrefoursanjusto@mostazaweb.com.ar",
         "direccion": "Av Don Bosco 2680",
@@ -2393,14 +2237,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MGC",
-        "sigla_tickets": "MGC",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "BELEN VILCA",
+        "supervisor": "ANTONELLA HORNA",
         "local": "CATAN",
         "email": "catan@mostazaweb.com.ar",
         "direccion": "Av Brigadier Gral. Juan Manuel de Rosas 14457. Ruta 3 km 29",
@@ -2410,14 +2253,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MSJ",
-        "sigla_tickets": "MSJ",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "CINTHIA BUSTAMANTE",
+        "supervisor": "ANTONELLA HORNA",
         "local": "SAN JUSTO 1",
         "email": "sanjusto@mostazaweb.com.ar",
         "direccion": "Gral. Juan Manuel de Rosas 3910",
@@ -2427,14 +2269,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MTA",
-        "sigla_tickets": "MTA",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "GRISELDA ORTEGA",
+        "supervisor": "ANTONELLA HORNA",
         "local": "TABLADA",
         "email": "walmarttablada@mostazaweb.com.ar",
         "direccion": "Av.Monseñor Bufano  6050",
@@ -2444,14 +2285,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MWS",
-        "sigla_tickets": "MWS",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "CANDELA GARCIA",
+        "supervisor": "ANTONELLA HORNA",
         "local": "SAN JUSTO 2",
         "email": "sanjusto2@mostazaweb.com.ar",
         "direccion": "Gral. Juan Manuel de Rosas 3990",
@@ -2461,14 +2301,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MEP",
-        "sigla_tickets": "MEP",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "JOAQUIN CERSOFIOS",
+        "supervisor": "ROMINA BINA",
         "local": "PARANÁ",
         "email": "paseoparana@mostazaweb.com.ar",
         "direccion": "Corrientes 687",
@@ -2478,31 +2317,29 @@ const localesData = [
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MSN",
-        "sigla_tickets": "MSN",
+        "sigla_tickets": "",
         "regional": "ALEJANDRO ALVAREZ",
-        "supervisor": "AYELEN GARCIA",
+        "supervisor": "AILEN PEREZ",
         "local": "SALTA",
         "email": "salta@mostazaweb.com.ar",
-        "direccion": "VIRREY TOLEDO 702",
+        "direccion": "Av. Virrey Toledo 702 (Alto Noa Shopping)",
         "ciudad": "SALTA",
         "provincia": "SALTA",
-        "tipo_local": "",
+        "tipo_local": "-",
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MUN",
-        "sigla_tickets": "MUN",
+        "sigla_tickets": "",
         "regional": "ALEJANDRO ALVAREZ",
-        "supervisor": "EZEQUIEL GONZALEZ",
+        "supervisor": "SOFIA SAS",
         "local": "UNICENTER",
         "email": "unicenter@mostazaweb.com.ar",
         "direccion": "Paraná 3745",
@@ -2512,14 +2349,29 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "MCB",
+        "sigla_tickets": "",
+        "regional": "ALEJANDRO ALVAREZ",
+        "supervisor": "Julieta Ochoa",
+        "local": "CASEROS",
+        "email": "caseros@mostazaweb.com.ar",
+        "direccion": "Justo José de Urquiza 4751",
+        "ciudad": "CASEROS",
+        "provincia": "BUENOS AIRES",
+        "tipo_local": "",
+        "razon_social": "MOSTAZA Y PAN S.A.",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPF",
-        "sigla_tickets": "MPF",
+        "sigla_tickets": "",
         "regional": "ALEJANDRO ALVAREZ",
-        "supervisor": "ROMINA SALAZAR",
+        "supervisor": "Sofia Sas",
         "local": "PUERTO DE FRUTO",
         "email": "puertodefrutos@mostazaweb.com.ar",
         "direccion": "SARMIENTO 157",
@@ -2529,14 +2381,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MTC",
-        "sigla_tickets": "MTC",
+        "sigla_tickets": "",
         "regional": "ALEJANDRO ALVAREZ",
-        "supervisor": "MICAELA QUIJANO",
+        "supervisor": "Sofia Sas",
         "local": "TIGRE CALLE",
         "email": "tigre@mostazaweb.com.ar",
         "direccion": "BARTOLOME MITRE 460 , TIGRE",
@@ -2546,14 +2397,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLE",
-        "sigla_tickets": "MLE",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "JUAN VAÑO",
+        "supervisor": "MILAGROS SANCHEZ",
         "local": "PARQUE LELOIR",
         "email": "leloir@mostazaweb.com.ar",
         "direccion": "AV PRESIDENTE PERON 8545 , ITUZAINGO",
@@ -2563,14 +2413,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCC",
-        "sigla_tickets": "MCC",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Rocio Arzaroli",
+        "supervisor": "Bruno Ureta",
         "local": "COMODORO CENTRO",
         "email": "comodorocentro@mostazaweb.com.ar",
         "direccion": "SAN MARTIN 401",
@@ -2580,14 +2429,13 @@ const localesData = [
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MWC",
-        "sigla_tickets": "MWC",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "MAITE SEGURA",
+        "supervisor": "Bruno Ureta",
         "local": "COMODORO RIVADAVIA",
         "email": "comodoro@mostazaweb.com.ar",
         "direccion": "ENRIQUE GIROLANO 3100",
@@ -2597,14 +2445,13 @@ const localesData = [
         "razon_social": "GASTRO MANANGEMENT GROUP S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCH",
-        "sigla_tickets": "MCH",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "DAMIAN SOTO",
+        "supervisor": "Bruno Ureta",
         "local": "Comodoro Auto",
         "email": "",
         "direccion": "Av Hipolito Yrigoyen",
@@ -2614,14 +2461,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCA",
-        "sigla_tickets": "MCA",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Nicolas Bustos",
+        "supervisor": "Yesica Zarate",
         "local": "CARREFOUR AVELLANEDA",
         "email": "carrefouravellaneda@mostazaweb.com.ar",
         "direccion": "Av Pres Hipolito de Irigoyen 299",
@@ -2631,14 +2477,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "AFA",
-        "sigla_tickets": "AFA",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Soraya Morales",
+        "supervisor": "Damian Riquelme",
         "local": "AMERICAN FAVS",
         "email": "am.favs@outlook.com",
         "direccion": "Guemes 897 (Local 206) Avellaneda CP 1870",
@@ -2648,14 +2493,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAA",
-        "sigla_tickets": "MAA",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Ayelen Clavero",
+        "supervisor": "Damian Riquelme",
         "local": "ALTO AVELLANEDA",
         "email": "altoavellaneda@mostazaweb.com.ar",
         "direccion": "Gral. Güemes 897",
@@ -2665,14 +2509,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MOC",
-        "sigla_tickets": "MOC",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "MATIAS BRIZUELA",
+        "supervisor": "Damian Riquelme",
         "local": "MADERO 2",
         "email": "madero2@mostazaweb.com.ar",
         "direccion": "Olga Cossettini 803",
@@ -2682,14 +2525,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPD",
-        "sigla_tickets": "MPD",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Mario Peralta",
+        "supervisor": "Damian Riquelme",
         "local": "MADERO 3",
         "email": "madero3@mostazaweb.com.ar",
         "direccion": "Pierina Dealessi  1502",
@@ -2699,14 +2541,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MMA",
-        "sigla_tickets": "MMA",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "CAMILA GIMENEZ",
+        "supervisor": "Damian Riquelme",
         "local": "MADRYN",
         "email": "puertomadryn@mostazaweb.com.ar",
         "direccion": "28 de Julio 188",
@@ -2716,14 +2557,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MTR",
-        "sigla_tickets": "MTR",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Jaqueline Saria",
+        "supervisor": "Damian Riquelme",
         "local": "TRELEW",
         "email": "trelew@mostazaweb.com.ar",
         "direccion": "JOSIAH WILLIAMS  209",
@@ -2733,14 +2573,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLT",
-        "sigla_tickets": "MLT",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Maximo Bianco",
+        "supervisor": "Romina De Luca",
         "local": "LAS TOSCAS",
         "email": "lastoscas@mostazaweb.com.ar",
         "direccion": "FORMOSA 653",
@@ -2750,14 +2589,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MBO",
-        "sigla_tickets": "MBO",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "MICAELA CABRERA",
+        "supervisor": "Romina De Luca",
         "local": "BOULEVARD",
         "email": "boulevard@mostazaweb.com.ar",
         "direccion": "H. Yrigoyen 13298",
@@ -2767,14 +2605,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLO",
-        "sigla_tickets": "MLO",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "cecilia colasantti",
+        "supervisor": "Romina De Luca",
         "local": "LOMITAS",
         "email": "lomitas@mostazaweb.com.ar",
         "direccion": "COLOMBRES 306",
@@ -2784,14 +2621,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPL",
-        "sigla_tickets": "MPL",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "TATIANA SZUKAILO",
+        "supervisor": "Romina De Luca",
         "local": "PORTAL LOMAS",
         "email": "portallomas@mostazaweb.com.ar",
         "direccion": "Av Antartida Argentina  801  y Frias",
@@ -2801,14 +2637,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MBB",
-        "sigla_tickets": "MBB",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "FLORENCIA TOBARES",
+        "supervisor": "Romina De Luca",
         "local": "Bahia Blanca",
         "email": "bblanca@mostazaweb.com.ar",
         "direccion": "O Higgins 40",
@@ -2818,14 +2653,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MQM",
-        "sigla_tickets": "MQM",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Nicole Morales",
+        "supervisor": "Yesica Zarate",
         "local": "QUILMES  JUMBO",
         "email": "jumboquilmes@mostazaweb.com.ar",
         "direccion": "Calchaquí 3950",
@@ -2835,14 +2669,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAU",
-        "sigla_tickets": "MAU",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Sofia Decker",
+        "supervisor": "Yesica Zarate",
         "local": "SARANDI",
         "email": "walmartsarandi@mostazaweb.com.ar",
         "direccion": "Au. Bs. As- La Plata km 9",
@@ -2852,14 +2685,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MVA",
-        "sigla_tickets": "MVA",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Lorena Avila",
+        "supervisor": "Yesica Zarate",
         "local": "VARELA",
         "email": "varela@mostazaweb.com.ar",
         "direccion": "Av. San Martín 554",
@@ -2869,14 +2701,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLP",
-        "sigla_tickets": "MLP",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "CONSTANZA LANATA",
+        "supervisor": "Yesica Zarate",
         "local": "LA PLATA",
         "email": "walmartlp@mostazaweb.com.ar",
         "direccion": "Camino Parque Centenario 1876",
@@ -2886,14 +2717,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MDB",
-        "sigla_tickets": "MDB",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "GIULIANA ACEBAL",
+        "supervisor": "Yesica Zarate",
         "local": "DOLORES",
         "email": "dolores@mostazaweb.com.ar",
         "direccion": "Ruta 2 KM 202",
@@ -2903,14 +2733,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLC",
-        "sigla_tickets": "MLC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Mailen Suarez",
+        "supervisor": "Pablo Cozzo",
         "local": "AV LA PLATA CALLE",
         "email": "avlaplata@mostazaweb.com.ar",
         "direccion": "Av la Plata 1150",
@@ -2920,14 +2749,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAC",
-        "sigla_tickets": "MAC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "MICAELA GUTIERREZ",
+        "supervisor": "Pablo Cozzo",
         "local": "ACOYTE",
         "email": "acoyte@mostazaweb.com.ar",
         "direccion": "Av. Rivadavia 4994",
@@ -2937,14 +2765,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MVC",
-        "sigla_tickets": "MVC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Reyna Cuevas",
+        "supervisor": "Pablo Cozzo",
         "local": "CABALLITO",
         "email": "villagecaballito@mostazaweb.com.ar",
         "direccion": "Av Rivadavia 5071",
@@ -2954,14 +2781,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MDI",
-        "sigla_tickets": "MDI",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "LOURDES STEPANIUK",
+        "supervisor": "Joaquin Aquino",
         "local": "DIAGONAL",
         "email": "diagonal@mostazaweb.com.ar",
         "direccion": "Av. Presidente Roque Saenz Peña 572",
@@ -2971,14 +2797,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MFL",
-        "sigla_tickets": "MFL",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Bianca Albarracin",
+        "supervisor": "Joaquin Aquino",
         "local": "FLORIDA",
         "email": "florida@mostazaweb.com.ar",
         "direccion": "Florida 267",
@@ -2988,14 +2813,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MC9",
-        "sigla_tickets": "MC9",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "JHONATHAN RODRIGUEZ",
+        "supervisor": "Joaquin Aquino",
         "local": "PELLEGRINI BS AS",
         "email": "pellegrini@mostazaweb.com.ar",
         "direccion": "Córdoba 998",
@@ -3005,14 +2829,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCO",
-        "sigla_tickets": "MCO",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Moira Hoyos",
+        "supervisor": "Joaquin Aquino",
         "local": "CORRIENTES Y 9 DE JULIO",
         "email": "corrientes@mostazaweb.com.ar",
         "direccion": "Av. Corrientes 970",
@@ -3022,14 +2845,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MF2",
-        "sigla_tickets": "MF2",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Mara Meza",
+        "supervisor": "Joaquin Aquino",
         "local": "FLORIDA 2",
         "email": "florida2@mostazaweb.com.ar",
         "direccion": "mlt",
@@ -3039,14 +2861,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MGP",
-        "sigla_tickets": "MGP",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Patricia Ferreyra",
+        "supervisor": "Joaquin Aquino",
         "local": "GALERIAS PACIFICO",
         "email": "galerias@mostazaweb.com.ar",
         "direccion": "San Martin 678.",
@@ -3056,31 +2877,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
-    },
-    {
-        "sigla_sistema": "MPT",
-        "sigla_tickets": "MPT",
-        "regional": "Pablo Baena",
-        "supervisor": "TOMAS CASALE",
-        "local": "TUCUMAN 1",
-        "email": "tucuman@mostazaweb.com.ar",
-        "direccion": "AV.FERMIN CARIOLA   42",
-        "ciudad": "YERBA BUENA",
-        "provincia": "TUCUMAN",
-        "tipo_local": "",
-        "razon_social": "MOSTAZA Y PAN S.A.",
-        "tecnico": "",
-        "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": "032"
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MRM",
-        "sigla_tickets": "MRM",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "MARIA RODRIGUEZ",
+        "supervisor": "Erica Luna",
         "local": "RECOLETA",
         "email": "recoleta@mostazaweb.com.ar",
         "direccion": "Junin 1648",
@@ -3090,14 +2893,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCG",
-        "sigla_tickets": "MCG",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Maira Romero",
+        "supervisor": "Laura Zapana",
         "local": "CORDOBA GENERAL PAZ",
         "email": "generalpaz@mostazaweb.com.ar",
         "direccion": "AV.GENERAL PAZ 123",
@@ -3107,14 +2909,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCL",
-        "sigla_tickets": "MCL",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "MAILEN PERALTA",
+        "supervisor": "Laura Zapana",
         "local": "PASEO LIBERTAD",
         "email": "cordobalibertad@mostazaweb.com.ar",
         "direccion": "LIBERTAD  1100",
@@ -3124,14 +2925,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MRC",
-        "sigla_tickets": "MRC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Ariel Moreno",
+        "supervisor": "Laura Zapana",
         "local": "RIO CUARTO",
         "email": "riocuarto@mostazaweb.com.ar",
         "direccion": "Sagranderos 200",
@@ -3141,14 +2941,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCP",
-        "sigla_tickets": "MCP",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Yamila Naghi",
+        "supervisor": "Laura Zapana",
         "local": "PATIO OLMOS",
         "email": "patioolmos@mostazaweb.com.ar",
         "direccion": "VELEZ SARSFIELD 361",
@@ -3158,14 +2957,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCV",
-        "sigla_tickets": "MCV",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Dafne Jofre",
+        "supervisor": "Laura Zapana",
         "local": "VILLA CABRERA",
         "email": "vcabrera@mostazaweb.com.ar",
         "direccion": "JOSE DE GOYCOHEA2851",
@@ -3175,14 +2973,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MSC",
-        "sigla_tickets": "MSC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Lucia Heredia",
+        "supervisor": "Laura Zapana",
         "local": "NUEVO CENTRO",
         "email": "nuevocentro@mostazaweb.com.ar",
         "direccion": "Av. Duarte Quirós 1400, X5000 Córdoba",
@@ -3192,14 +2989,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MJC",
-        "sigla_tickets": "MJC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Agustina Carrizo",
+        "supervisor": "Laura Zapana",
         "local": "SHOPPING JOCKEY CLUB",
         "email": "jockeyclub@mostazaweb.com.ar",
         "direccion": "ELIAS YOFRE 1050",
@@ -3209,14 +3005,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MMP",
-        "sigla_tickets": "MMP",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "ALDANA RUIZ",
+        "supervisor": "Pablo Cozzo",
         "local": "MOSTAZA POSADAS",
         "email": "posadas@mostazaweb.com.ar",
         "direccion": "Av. Quaranta 3598",
@@ -3226,14 +3021,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAT",
-        "sigla_tickets": "MAT",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Claudia Ramirez",
+        "supervisor": "Pablo Cozzo",
         "local": "ALBERDI",
         "email": "alberdi@mostazaweb.com.ar",
         "direccion": "Av. Juan Bautista Alberdi 7401",
@@ -3243,14 +3037,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAB",
-        "sigla_tickets": "MAB",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Cecilia Soto",
+        "supervisor": "Pablo Cozzo",
         "local": "ABASTO",
         "email": "abasto@mostazaweb.com.ar",
         "direccion": "Av. Corrientes 3247",
@@ -3260,14 +3053,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MAP",
-        "sigla_tickets": "MAP",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Lucia Padia",
+        "supervisor": "Erica Luna",
         "local": "ALTO PALERMO",
         "email": "altopalermo@mostazaweb.com.ar",
         "direccion": "Av. Santa Fé 3253",
@@ -3277,14 +3069,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCJ",
-        "sigla_tickets": "MCJ",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Ezequiel Sanchez",
+        "supervisor": "Erica Luna",
         "local": "JUAN B JUSTO",
         "email": "juanbjusto@mostazaweb.com.ar",
         "direccion": "AV CORRIENTES 5790",
@@ -3294,14 +3085,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MJS",
-        "sigla_tickets": "MJS",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "NAYLA TERAN",
+        "supervisor": "Erica Luna",
         "local": "TRENES",
         "email": "trenes@mostazaweb.com.ar",
         "direccion": "Juan b Justo 606",
@@ -3311,14 +3101,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPB",
-        "sigla_tickets": "MPB",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Lucio Zanneti",
+        "supervisor": "Pablo Cozzo",
         "local": "PARQUE BROWN",
         "email": "parquebrown@mostazaweb.com.ar",
         "direccion": "Av.Fernandez de la cruz 4602",
@@ -3328,14 +3117,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPC",
-        "sigla_tickets": "MPC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "Nahiara Vargas",
+        "supervisor": "Pablo Cozzo",
         "local": "CENTENARIO",
         "email": "centenario@mostazaweb.com.am",
         "direccion": "AV . DIAZ VELEZ 5009",
@@ -3345,14 +3133,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MT1",
-        "sigla_tickets": "MT1",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "",
+        "supervisor": "Joaquin Aquino",
         "local": "FOOD TRUCK",
         "email": "FOODTRUCK@MOSTAZAWEB.COM.AR",
         "direccion": "",
@@ -3362,15 +3149,14 @@ const localesData = [
         "razon_social": "MSOTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MSB",
-        "sigla_tickets": "MSB",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "GERALDINE MUÑOZ",
-        "local": "",
+        "supervisor": "Romina De Luca",
+        "local": "(sin nombre en ninguna fuente) MSB",
         "email": "",
         "direccion": "",
         "ciudad": "",
@@ -3379,14 +3165,13 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MMC",
-        "sigla_tickets": "MMC",
+        "sigla_tickets": "",
         "regional": "Pablo Baena",
-        "supervisor": "YENIFER MARTINS",
+        "supervisor": "Pablo Cozzo",
         "local": "Posadas Calle",
         "email": "POSADASCALLE@MOSTAZAWEB.COM.AR",
         "direccion": "San Lorenzo 1176",
@@ -3396,14 +3181,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MCM",
-        "sigla_tickets": "MCM",
+        "sigla_tickets": "",
         "regional": "Gimena Conte",
-        "supervisor": "MELANIE FODERA",
+        "supervisor": "ROMINA BINA",
         "local": "MORENO 1",
         "email": "carrefourmoreno@mostazaweb.com.ar",
         "direccion": "Acceso Oeste y Graham Bell",
@@ -3413,14 +3197,13 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MIVP",
-        "sigla_tickets": "MIVP",
+        "sigla_tickets": "",
         "regional": "GIMENA CONTE",
-        "supervisor": "FLORENCIA VAZQUEZ",
+        "supervisor": "MILAGROS SANCHEZ",
         "local": "ITUZAINGO",
         "email": "ITUZAINGO@MOSTAZAWEB.COM.AR",
         "direccion": "CORONEL PABLO ZUFRIATEGUI 965",
@@ -3430,15 +3213,14 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MLZ",
-        "sigla_tickets": "MLZ",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "LEANDRO PERALTA",
-        "local": "",
+        "supervisor": "Romina De Luca",
+        "local": "(sin nombre en ninguna fuente) MLZ",
         "email": "",
         "direccion": "",
         "ciudad": "",
@@ -3447,15 +3229,14 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPIL",
-        "sigla_tickets": "MPIL",
+        "sigla_tickets": "",
         "regional": "Jesica Espinoza",
-        "supervisor": "Lucila Antunez",
-        "local": "",
+        "supervisor": "YESICA ZARATE",
+        "local": "(sin nombre en ninguna fuente) MPIL",
         "email": "",
         "direccion": "",
         "ciudad": "",
@@ -3464,15 +3245,14 @@ const localesData = [
         "razon_social": "",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
     },
     {
         "sigla_sistema": "MPAT",
-        "sigla_tickets": "MPAT",
+        "sigla_tickets": "",
         "regional": "ALEJANDRO ALVAREZ",
-        "supervisor": "BRENDA ALBORNOZ",
-        "local": "",
+        "supervisor": "Micaela Moreno",
+        "local": "VIA PUBLICA",
         "email": "pacheco1@mostazaweb.com.ar",
         "direccion": "",
         "ciudad": "PACHECO",
@@ -3481,7 +3261,198 @@ const localesData = [
         "razon_social": "MOSTAZA Y PAN S.A.",
         "tecnico": "",
         "email_regional": "",
-        "email_supervisor": "",
-        "id_gen_online": ""
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FCAS",
+        "sigla_tickets": "FCAST",
+        "regional": "",
+        "supervisor": "Marina Gonzalez",
+        "local": "CASTELAR",
+        "email": "castelar@mostazaweb.com.ar",
+        "direccion": "Gdor. Inocencio arias 2396",
+        "ciudad": "CASTELAR",
+        "provincia": "BUENOS AIRES",
+        "tipo_local": "A la calle",
+        "razon_social": "TRESOL",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FQUP",
+        "sigla_tickets": "FMQCA",
+        "regional": "",
+        "supervisor": "Hernán Dalto",
+        "local": "QUILMES P.",
+        "email": "quilmespeatonal@mostazaweb.com.ar",
+        "direccion": "Peatonal Rivadavia 49",
+        "ciudad": "Quilmes",
+        "provincia": "BUENOS AIRES",
+        "tipo_local": "Shopping",
+        "razon_social": "ACENDRADO FAST FOOD SA",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FLP6",
+        "sigla_tickets": "FLPC6",
+        "regional": "",
+        "supervisor": "Elisabet Gassman",
+        "local": "LA PLATA 6",
+        "email": "laplata6@mostazaweb.com.ar",
+        "direccion": "Calle 137 N° 1598 (esq. 65)",
+        "ciudad": "La Plata",
+        "provincia": "BUENOS AIRES",
+        "tipo_local": "A la calle",
+        "razon_social": "BELNO S.A",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FMNVP",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "Yohana Gonzalez",
+        "local": "NEUQUEN CENTRO",
+        "email": "neuquencentro@mostazaweb.com.ar",
+        "direccion": "Eugenio Perticone 215",
+        "ciudad": "NEUQUEN CAPITAL",
+        "provincia": "NEUQUEN",
+        "tipo_local": "A la calle",
+        "razon_social": "TIESUR SAS",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "MFT2",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "-",
+        "local": "FOOD TRUCK 2",
+        "email": "foodtruck1@mostazaweb.com.ar",
+        "direccion": "Ruta Nacional 40 Km 355",
+        "ciudad": "San Juan",
+        "provincia": "SAN JUAN",
+        "tipo_local": "Food Truck",
+        "razon_social": "GASTRO MANANGET GROUP S.A",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FMMVP",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "Raúl Ayala",
+        "local": "MORON",
+        "email": "moron@mostazaweb.com.ar",
+        "direccion": "Belgrano 274",
+        "ciudad": "MORON",
+        "provincia": "BUENOS AIRES",
+        "tipo_local": "A la calle",
+        "razon_social": "GRUPO AGL",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "URQ",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "",
+        "local": "Urquiza",
+        "email": "",
+        "direccion": "",
+        "ciudad": "",
+        "provincia": "",
+        "tipo_local": "",
+        "razon_social": "",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "CHA",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "",
+        "local": "Chacabuco",
+        "email": "",
+        "direccion": "",
+        "ciudad": "",
+        "provincia": "",
+        "tipo_local": "",
+        "razon_social": "",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FGUA",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "",
+        "local": "GUALEGUAYCHÚ",
+        "email": "",
+        "direccion": "",
+        "ciudad": "",
+        "provincia": "",
+        "tipo_local": "",
+        "razon_social": "",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "RYT",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "",
+        "local": "TERRADA",
+        "email": "",
+        "direccion": "",
+        "ciudad": "",
+        "provincia": "",
+        "tipo_local": "",
+        "razon_social": "",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FMCPE",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "",
+        "local": "Plaza España",
+        "email": "",
+        "direccion": "",
+        "ciudad": "",
+        "provincia": "",
+        "tipo_local": "",
+        "razon_social": "SAMBUCI SAS",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
+    },
+    {
+        "sigla_sistema": "FMVCP",
+        "sigla_tickets": "",
+        "regional": "",
+        "supervisor": "",
+        "local": "Carlos Paz",
+        "email": "",
+        "direccion": "",
+        "ciudad": "",
+        "provincia": "",
+        "tipo_local": "",
+        "razon_social": "SAMBU SAS",
+        "tecnico": "",
+        "email_regional": "",
+        "email_supervisor": ""
     }
 ];
