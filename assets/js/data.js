@@ -134,7 +134,7 @@ const localesData = [
         "supervisor": "Micaela Pardo",
         "local": "Canning",
         "email": "canning@mostazaweb.com.ar",
-        "direccion": "Av. Mariano Castex (RP58) y RP16",
+        "direccion": "RP 58 y RP 16, B1804 Canning, Buenos Aires",
         "ciudad": "CANNING",
         "provincia": "BUENOS AIRES",
         "tipo_local": "Auto Mostaza",
