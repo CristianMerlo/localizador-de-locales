@@ -592,6 +592,22 @@ const localesData = [
         "email_supervisor": "fbollero@mostazaweb.com.ar"
     },
     {
+        "sigla_sistema": "FJVP",
+        "sigla_tickets": "FJVP",
+        "regional": "Hernán Dalto",
+        "supervisor": "Fabrizio Bollero",
+        "local": "Jujuy Vía Pública",
+        "email": "jujuy@mostazaweb.com.ar",
+        "direccion": "Belgrano 846",
+        "ciudad": "San Salvador de Jujuy",
+        "provincia": "JUJUY",
+        "tipo_local": "A la calle",
+        "razon_social": "CANDELIA S.R.L.",
+        "tecnico": "Francisco Rametta",
+        "email_regional": "hdalto@mostazaweb.com.ar",
+        "email_supervisor": "fbollero@mostazaweb.com.ar"
+    },
+    {
         "sigla_sistema": "FSAO",
         "sigla_tickets": "",
         "regional": "Hernán Dalto",
